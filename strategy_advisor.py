@@ -130,6 +130,14 @@ class DataHandler:
             return None
         return match_data
 
+    def get_all_team_stats(self):
+        """Returns a dictionary of stats for ALL teams in the dataset (full season average)."""
+        unique_teams = self.df['frc_team'].unique()
+        all_stats = {}
+        for team in unique_teams:
+            all_stats[team] = self.get_average_stats(team, self.df)
+        return all_stats
+
 class TBAClient:
     def __init__(self, api_key):
         self.api_key = api_key
@@ -157,7 +165,7 @@ class TBAClient:
             return None
 
 class AIProxyClient:
-    def __init__(self, api_key, model="google/gemini-3.0-pro"):
+    def __init__(self, api_key, model="google/gemini-3.0-flash"):
         self.api_key = api_key
         self.model = model
         self.url = AI_PROXY_URL
@@ -186,6 +194,45 @@ class StrategyEngine:
         self.data = data_handler
         self.tba = tba_client
         self.ai = ai_client
+
+    def generate_alliance_picks(self, target_team):
+        print(f"\n--- Generating Alliance Selection List for Team {target_team} ---")
+        
+        # 1. Get Target Team Stats
+        target_stats = self.data.get_average_stats(target_team, self.data.df)
+        print(f"Our Stats (Team {target_team}): {target_stats}")
+        
+        # 2. Get All Other Teams
+        all_stats = self.data.get_all_team_stats()
+        # Remove ourselves from the list
+        if str(target_team) in all_stats:
+            del all_stats[str(target_team)]
+            
+        # 3. Construct Prompt
+        prompt = f"You are the Alliance Captain for FRC Team {target_team} in the game REEFSCAPE.\n"
+        prompt += f"Your Stats: {target_stats}\n\n"
+        prompt += "Available Teams for Draft (Stats):\n"
+        
+        # Format list - maybe simplified to save space, but Gemini Flash is huge.
+        for team, stats in all_stats.items():
+            prompt += f"Team {team}: {stats}\n"
+            
+        prompt += "\nIMPORTANT GAME RULES & CONSTRAINTS:\n"
+        prompt += "1. **Alliance Composition**: An alliance has 3 robots. You need to pick 2 partners.\n"
+        prompt += "2. **Complementarity**: If we are good at L4 Coral, maybe we need an L1/Algae specialist or a Defender. If we are an Algae bot, we need a scorer.\n"
+        prompt += "3. **Endgame**: We need 14pts for Barge RP (Deep Cage = 12, Park = 2). Does the pick help with climbing?\n"
+        
+        prompt += "\nTask: Recommend your Ideal Alliance.\n"
+        prompt += "1. **1st Pick Recommendation**: Who is your primary partner? (Best Scorer available that complements you).\n"
+        prompt += "2. **2nd Pick Recommendation**: Who is your second partner? (Defense specialist, Endgame specialist, or backup scorer).\n"
+        prompt += "3. **Why?**: Explain the strategy behind these picks based on the data provided.\n"
+        prompt += "Provide a ranked list of top 3 options for each pick slot."
+        
+        # 4. Get AI Strategy
+        print("Consulting Strategy Advisor...")
+        advice = self.ai.get_strategy(prompt)
+        print("\n=== Alliance Selection Recommendations ===")
+        print(advice)
 
     def simulate_match(self, match_n, alliance="blue"):
         alliance = "red" if alliance.lower() in ["red", "r"] else "blue"
@@ -247,21 +294,6 @@ class StrategyEngine:
         # 5. Compare with Actual Result
         self._print_actual_comparison(match_n, teams)
 
-    def _construct_prompt(self, match_n, teams, red_stats, blue_stats, target_alliance):
-        prompt = f"Analyze Match {match_n} for the 2025 FRC Game Reefscape.\n"
-        prompt += f"Red Alliance: {teams['red']}\n"
-        prompt += f"Blue Alliance: {teams['blue']}\n\n"
-        
-        prompt += "Team Historical Stats (Prior to this match):\n"
-        
-        prompt += "--- RED ALLIANCE ---\n"
-        for team, stats in red_stats.items():
-            prompt += f"Team {team}: {stats}\n"
-            
-        prompt += "\n--- BLUE ALLIANCE ---\n"
-        for team, stats in blue_stats.items():
-            prompt += f"Team {team}: {stats}\n"
-            
     def _construct_prompt(self, match_n, teams, red_stats, blue_stats, target_alliance):
         prompt = f"Analyze Match {match_n} for the 2025 FRC Game Reefscape.\n"
         prompt += f"Red Alliance: {teams['red']}\n"
@@ -372,8 +404,9 @@ Protected Zones: Your opponents cannot touch you while you are in your Reef Zone
 
 def main():
     parser = argparse.ArgumentParser(description="FRC Reefscape AI Strategy Advisor")
-    parser.add_argument("--match", type=int, required=True, help="Match number to simulate strategy for")
+    parser.add_argument("--match", type=int, help="Match number to simulate strategy for")
     parser.add_argument("--alliance", type=str, choices=['red', 'blue', 'r', 'b'], default='blue', help="Alliance to generate strategy for (r/red or b/blue)")
+    parser.add_argument("--pick_for", type=str, help="Team number to generate Alliance Selection picks for")
     args = parser.parse_args()
 
     data_handler = DataHandler(CSV_PATH)
@@ -381,7 +414,14 @@ def main():
     ai_client = AIProxyClient(AI_PROXY_KEY)
     
     engine = StrategyEngine(data_handler, tba_client, ai_client)
-    engine.simulate_match(args.match, args.alliance)
+    
+    if args.pick_for:
+        engine.generate_alliance_picks(args.pick_for)
+    elif args.match:
+        engine.simulate_match(args.match, args.alliance)
+    else:
+        print("Error: Must specify either --match <N> or --pick_for <TEAM>")
+        parser.print_help()
 
 if __name__ == "__main__":
     main()
