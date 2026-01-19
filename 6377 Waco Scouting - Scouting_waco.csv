@@ -1,0 +1,482 @@
+primary_key,frc_team,event_key,match_key,driver_station,comp_level,match_number,total auto,total teleop,Teleop > AUto,auto_moved,auto_coral_l1,auto_coral_l2,auto_coral_l3,auto_coral_l4,auto_coral_floor,auto_coral_station,auto_algae_removed,auto_algae_processor,auto_algae_barge,tele_coral_l1,tele_coral_l2,tele_coral_l3,tele_coral_l4,tele_coral_floor,tele_coral_station,tele_algae_removed,tele_algae_processor,tele_algae_barge,tele_endgame,tele_climb_speed,tele_shuttler,tele_human_barge,tele_human_barge_miss,defender_rating,mech_failure,scouted_by,other_notes
+10062-2025txwac_qm13-red2-Lekha S,10062,2025txwac,2025txwac_qm13,red2,qm,13,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Park,No Attempt,No,0,0,3,No,Lekha S, tried scoring but then started to play defense
+10062-2025txwac_qm20-blue3-Brace Y,10062,2025txwac,2025txwac_qm20,blue3,qm,20,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Park,Fast (< 3sec),No,0,0,5,No,Brace Y, 
+10062-2025txwac_qm27-red1-Arjun M,10062,2025txwac,2025txwac_qm27,red1,qm,27,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun M,Got coral stuck in itself
+10062-2025txwac_qm3-blue1-Shay S,10062,2025txwac,2025txwac_qm3,blue1,qm,3,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Park,No Attempt,No,0,0,0,No,Shay S,"Robot left starting line, but did not move after in auton"
+10062-2025txwac_qm31-red2-Arjun M,10062,2025txwac,2025txwac_qm31,red2,qm,31,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,1,0,3,No,Arjun M, 
+10062-2025txwac_qm35-blue1-Jameson P,10062,2025txwac,2025txwac_qm35,blue1,qm,35,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Jameson P, 
+10062-2025txwac_qm42-blue3-Lekha S,10062,2025txwac,2025txwac_qm42,blue3,qm,42,0,3,0,Yes,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,Park,No Attempt,No,0,0,0,No,Lekha S, first few seconds of teleop - robot didn't work
+10062-2025txwac_qm54-blue1-Jameson P,10062,2025txwac,2025txwac_qm54,blue1,qm,54,0,2,0,Yes,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,Park,No Attempt,No,0,0,0,No,Jameson P, 
+10062-2025txwac_qm59-blue3-Brace Y,10062,2025txwac,2025txwac_qm59,blue3,qm,59,0,2,0,No,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, 
+10062-2025txwac_qm66-red2-Pranav R,10062,2025txwac,2025txwac_qm66,red2,qm,66,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, Didn't show up
+10062-2025txwac_qm71-red3-Ian B,10062,2025txwac,2025txwac_qm71,red3,qm,71,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Ian B, 
+10062-2025txwac_qm77-red2-Abhi N,10062,2025txwac,2025txwac_qm77,red2,qm,77,0,2,0,No,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+10312-2025txwac_qm16-red3-Prateek K,10312,2025txwac,2025txwac_qm16,red3,qm,16,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,Park,No Attempt,No,4,0,3,No,Prateek K, Very shaky 
+10312-2025txwac_qm24-red1-Srinand T,10312,2025txwac,2025txwac_qm24,red1,qm,24,0,2,0,Yes,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,No,Srinand T, Tipped over at the end and didn't move
+10312-2025txwac_qm3-blue2-Hitu C,10312,2025txwac,2025txwac_qm3,blue2,qm,3,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Hitu C, Didn't move
+10312-2025txwac_qm30-blue2-Shreya A,10312,2025txwac,2025txwac_qm30,blue2,qm,30,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,5,No,Shreya A, Their robot didnt do anything other than moving around the field.
+10312-2025txwac_qm41-blue3-Lekha S,10312,2025txwac,2025txwac_qm41,blue3,qm,41,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,0,Park,No Attempt,No,0,0,0,No,Lekha S, attempted to drop coral in L1 but missed a few
+10312-2025txwac_qm47-blue2-Victoria H,10312,2025txwac,2025txwac_qm47,blue2,qm,47,0,2,0,Yes,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+10312-2025txwac_qm51-red3-Arjun KS,10312,2025txwac,2025txwac_qm51,red3,qm,51,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,Park,No Attempt,No,0,0,0,No,Arjun KS,slooooow l2
+10312-2025txwac_qm68-red1-Vishnu S,10312,2025txwac,2025txwac_qm68,red1,qm,68,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Vishnu S, 
+10312-2025txwac_qm76-red1-Arjun KS,10312,2025txwac,2025txwac_qm76,red1,qm,76,0,2,0,Yes,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,Park,No Attempt,No,0,0,0,No,Arjun KS, 
+10312-2025txwac_qm8-blue1-Vishnu S,10312,2025txwac,2025txwac_qm8,blue1,qm,8,0,2,0,Yes,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Vishnu S, No proper center of gravity keeps missing because of that 
+10312-2025txwac_qm80-blue2-Shreya A,10312,2025txwac,2025txwac_qm80,blue2,qm,80,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,Park,No Attempt,No,0,0,0,No,Shreya A, had potential to score L3 but wasnt able to align the bot properly. got coral stuck in their bot twice but got it out in around 3 seconds each.
+1296-2025txwac_qm10-red1-Victoria H,1296,2025txwac,2025txwac_qm10,red1,qm,10,0,7,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,1,0,0,Deep Climb,No Attempt,No,0,0,0,No,Victoria H, 
+1296-2025txwac_qm16-red1-Abhi N,1296,2025txwac,2025txwac_qm16,red1,qm,16,1,7,0,Yes,0,0,0,1,0,0,0,0,0,0,0,1,6,8,0,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Abhi N,
+1296-2025txwac_qm2-blue3-Brace Y,1296,2025txwac,2025txwac_qm2,blue3,qm,2,0,8,0,No,0,0,0,0,1,0,0,0,0,1,0,0,7,3,4,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,1,No,Brace Y," Good team
+"
+1296-2025txwac_qm33-blue1-Jameson P,1296,2025txwac,2025txwac_qm33,blue1,qm,33,1,11,0,Yes,0,0,0,1,0,0,0,0,0,1,2,3,5,8,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Jameson P, 
+1296-2025txwac_qm41-red2-Vishnu S,1296,2025txwac,2025txwac_qm41,red2,qm,41,0,9,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,9,9,0,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Vishnu S, 
+1296-2025txwac_qm45-red3-Pranav R,1296,2025txwac,2025txwac_qm45,red3,qm,45,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, Really slow elevator ànd coral scor3r arm
+1296-2025txwac_qm50-red1-Arjun KS,1296,2025txwac,2025txwac_qm50,red1,qm,50,1,7,0,Yes,0,0,0,1,0,0,0,0,0,1,0,0,6,1,6,0,0,0,Deep Climb,Medium (4-7sec),No,2,0,0,No,Arjun KS, 
+1296-2025txwac_qm56-red2-Prateek K,1296,2025txwac,2025txwac_qm56,red2,qm,56,8,0,Sus,Yes,0,0,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,2,0,0,No,Prateek K, 
+1296-2025txwac_qm64-blue2-Abhi N,1296,2025txwac,2025txwac_qm64,blue2,qm,64,0,6,0,No,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N, 
+1296-2025txwac_qm71-blue2-Lekha S,1296,2025txwac,2025txwac_qm71,blue2,qm,71,0,8,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,8,8,0,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,2,No,Lekha S," the robot was very consistent with L4 - even though their intake mechanism was slow
+the robot had a successful deep climb"
+1296-2025txwac_qm80-red3-Prateek K,1296,2025txwac,2025txwac_qm80,red3,qm,80,7,0,Sus,No,0,0,0,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Prateek K, 
+148-2025txwac_qm15-red3-Arjun M,148,2025txwac,2025txwac_qm15,red3,qm,15,1,9,0,Yes,0,0,0,1,0,1,1,0,0,0,0,0,9,0,10,0,0,1,Deep Climb,Fast (< 3sec),No,0,0,1,No,Arjun M, Really fast scoring and had really fast climb
+148-2025txwac_qm25-red2-Lekha S,148,2025txwac,2025txwac_qm25,red2,qm,25,2,9,0,Yes,0,0,0,2,0,1,0,0,0,0,3,5,1,0,11,3,0,1,Deep Climb,Medium (4-7sec),No,0,0,1,No,Lekha S, 
+148-2025txwac_qm3-red1-Abhi N,148,2025txwac,2025txwac_qm3,red1,qm,3,2,5,0,Yes,0,0,0,2,0,1,1,0,0,0,0,5,0,0,5,3,0,4,Deep Climb,Fast (< 3sec),No,0,0,0,No,Abhi N, 
+148-2025txwac_qm32-blue2-Shreya A,148,2025txwac,2025txwac_qm32,blue2,qm,32,0,6,0,Yes,0,0,0,0,0,1,0,0,0,0,0,1,5,0,6,2,0,2,Deep Climb,Fast (< 3sec),No,2,0,0,No,Shreya A, Did pretty good
+148-2025txwac_qm42-blue1-Srinand T,148,2025txwac,2025txwac_qm42,blue1,qm,42,1,6,0,Yes,0,0,0,1,0,0,0,0,0,2,0,0,4,0,0,0,0,2,Deep Climb,Fast (< 3sec),No,2,0,0,No,Srinand T," Fast climb, efficient cycling"
+148-2025txwac_qm49-red2-Prateek K,148,2025txwac,2025txwac_qm49,red2,qm,49,1,7,0,Yes,0,0,0,1,0,1,0,0,0,0,2,3,2,0,8,1,0,0,Park,No Attempt,No,0,0,0,No,Prateek K, Stuck on algae but gets freed by teamate can miss a lot on level 3 and 4
+148-2025txwac_qm58-blue1-Jameson P,148,2025txwac,2025txwac_qm58,blue1,qm,58,0,10,0,No,0,0,0,0,0,0,0,0,0,0,0,5,5,0,10,2,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Jameson P, 
+148-2025txwac_qm73-blue2-Lekha S,148,2025txwac,2025txwac_qm73,blue2,qm,73,2,7,0,Yes,0,0,0,2,0,1,0,0,0,0,2,3,2,0,7,1,0,0,Deep Climb,Medium (4-7sec),No,0,0,3,No,Lekha S," had a really great output mechanism - was very consistent with L4, L3, and L2
+the deep climb mechanism was fast
+robot was very quick in general - could dodge defensive robots"
+148-2025txwac_qm8-red1-Victoria H,148,2025txwac,2025txwac_qm8,red1,qm,8,2,5,0,Yes,0,0,0,2,0,1,0,0,0,1,2,0,2,0,7,1,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+2158-2025txwac_qm1-blue1-Shay S,2158,2025txwac,2025txwac_qm1,blue1,qm,1,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Shay S," Scored nothing, focused on defense"
+2158-2025txwac_qm19-red3-Prateek K,2158,2025txwac,2025txwac_qm19,red3,qm,19,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,1,No,Prateek K, Quickly flipped on the side on aggressive defense.
+2158-2025txwac_qm23-blue1-Arjun S,2158,2025txwac,2025txwac_qm23,blue1,qm,23,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,5,0,5,No,Arjun S, Amazing defense
+2158-2025txwac_qm28-red2-Lekha S,2158,2025txwac,2025txwac_qm28,red2,qm,28,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,5,No,Lekha S, played defense the entire teleop - very thought defense
+2158-2025txwac_qm36-red2-Arjun M,2158,2025txwac,2025txwac_qm36,red2,qm,36,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,Yes,Arjun M," Disabled near the other team's source, but was good at defense before it disabled."
+2158-2025txwac_qm46-blue3-Lekha S,2158,2025txwac,2025txwac_qm46,blue3,qm,46,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,5,No,Lekha S, mostly guarded the coral station - tough defense
+2158-2025txwac_qm50-blue3-Brace Y,2158,2025txwac,2025txwac_qm50,blue3,qm,50,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,5,No,Brace Y, I didn't notice anything much
+2158-2025txwac_qm59-blue2-Abhi N,2158,2025txwac,2025txwac_qm59,blue2,qm,59,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,No,Abhi N, Failed deep climb
+2158-2025txwac_qm63-red3-Arjun KS,2158,2025txwac,2025txwac_qm63,red3,qm,63,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun KS, entire alliance has an issue with getting stuck on algae
+2158-2025txwac_qm72-red1-Vishnu S,2158,2025txwac,2025txwac_qm72,red1,qm,72,7,0,Sus,No,7,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Vishnu S, 
+2158-2025txwac_qm78-red1-Arjun KS,2158,2025txwac,2025txwac_qm78,red1,qm,78,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,5,No,Arjun KS, top notch defense
+2158-2025txwac_qm8-red2-Lekha S,2158,2025txwac,2025txwac_qm8,red2,qm,8,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,No,Lekha S,played defense the entire match - blocked the way and attempted pushing (penalty)
+2468-2025txwac_qm13-blue1-Jameson P,2468,2025txwac,2025txwac_qm13,blue1,qm,13,0,9,0,Yes,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,2,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Jameson P, 
+2468-2025txwac_qm17-red1-Abhi N,2468,2025txwac,2025txwac_qm17,red1,qm,17,0,8,0,No,0,0,0,0,0,0,0,0,0,1,3,4,0,0,8,2,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, Failed deep climb
+2468-2025txwac_qm26-red3-Victoria H,2468,2025txwac,2025txwac_qm26,red3,qm,26,2,2,0,Yes,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, ai think they started having trouble with their elevator with around a minute left so after driving around a little they just parked
+2468-2025txwac_qm33-blue2-Shreya A,2468,2025txwac,2025txwac_qm33,blue2,qm,33,0,5,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,5,0,7,0,0,0,Park,No Attempt,No,0,0,0,No,Shreya A, 
+2468-2025txwac_qm39-blue1-Srinand T,2468,2025txwac,2025txwac_qm39,blue1,qm,39,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Srinand T, Very good problem solving during match
+2468-2025txwac_qm47-red3-Pranav R,2468,2025txwac,2025txwac_qm47,red3,qm,47,0,10,0,Yes,0,0,0,0,0,0,0,0,0,3,2,3,2,0,9,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+2468-2025txwac_qm58-red2-Prateek K,2468,2025txwac,2025txwac_qm58,red2,qm,58,0,4,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,3,0,7,0,0,0,No Attempt,No Attempt,No,1,0,0,No,Prateek K, 
+2468-2025txwac_qm6-red2-Lekha S,2468,2025txwac,2025txwac_qm6,red2,qm,6,0,9,0,Yes,0,0,0,0,0,1,0,0,0,0,5,4,0,0,10,2,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Lekha S, Deep climb attempted but did fully raise the robot
+2468-2025txwac_qm66-red1-Vishnu S,2468,2025txwac,2025txwac_qm66,red1,qm,66,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Vishnu S, 
+2468-2025txwac_qm70-blue3-Victoria H,2468,2025txwac,2025txwac_qm70,blue3,qm,70,0,6,0,Yes,0,0,0,0,0,0,0,0,0,0,4,2,0,0,8,2,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+2468-2025txwac_qm76-blue2-Shreya A,2468,2025txwac,2025txwac_qm76,blue2,qm,76,0,11,0,Yes,0,0,0,0,0,0,0,0,0,0,6,5,0,0,11,2,0,0,Park,No Attempt,No,0,0,0,No,Shreya A," They only focused on L3 and L2, and they used the same arm for placing coral and removing algae from the reef. parked in the last second (in a rush but they made it). didnt do much in the first 30 seconds of teleop but then started putting the coral on the reef."
+2582-2025txwac_qm14-blue1-Jameson P,2582,2025txwac,2025txwac_qm14,blue1,qm,14,1,8,0,Yes,1,0,0,0,0,0,0,0,0,1,2,5,0,0,9,4,1,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Jameson P, 
+2582-2025txwac_qm18-blue2-Shreya A,2582,2025txwac,2025txwac_qm18,blue2,qm,18,1,8,0,Yes,1,0,0,0,0,0,0,0,0,0,0,0,8,0,8,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Shreya A," they had the deep climb but in the last second, the robot fell."
+2582-2025txwac_qm26-blue2-Ian B,2582,2025txwac,2025txwac_qm26,blue2,qm,26,0,7,0,Yes,0,0,0,0,0,0,0,0,0,2,0,0,5,0,9,0,0,0,Deep Climb,No Attempt,No,2,0,0,No,Ian B,Descored a couple coral
+2582-2025txwac_qm30-red1-Abhi N,2582,2025txwac,2025txwac_qm30,red1,qm,30,1,10,0,Yes,0,0,0,1,0,0,0,0,0,4,3,3,0,0,11,1,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Abhi N, 
+2582-2025txwac_qm40-red2-Ian B,2582,2025txwac,2025txwac_qm40,red2,qm,40,0,10,0,Yes,0,0,0,0,0,0,0,0,0,1,5,4,0,0,11,0,0,0,Park,No Attempt,No,1,0,5,No,Ian B, 
+2582-2025txwac_qm44-red3-Pranav R,2582,2025txwac,2025txwac_qm44,red3,qm,44,1,4,0,Yes,0,0,0,1,0,0,0,0,0,0,0,0,4,0,6,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Pranav R, 
+2582-2025txwac_qm50-red3-Abhi N,2582,2025txwac,2025txwac_qm50,red3,qm,50,0,7,0,Yes,0,0,0,0,0,0,0,0,0,0,0,3,4,0,7,2,0,0,No Attempt,No Attempt,No,2,0,0,No,Abhi N, 
+2582-2025txwac_qm60-red1-Arjun M,2582,2025txwac,2025txwac_qm60,red1,qm,60,0,7,0,Yes,0,0,0,0,0,0,0,0,0,1,4,2,0,0,7,2,1,0,Park,No Attempt,No,0,0,0,No,Arjun M, 
+2582-2025txwac_qm66-red3-Ian B,2582,2025txwac,2025txwac_qm66,red3,qm,66,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,4,0,6,0,0,0,Deep Climb,No Attempt,No,2,0,0,No,Ian B, 
+2582-2025txwac_qm72-blue1-Srinand T,2582,2025txwac,2025txwac_qm72,blue1,qm,72,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Srinand T, 
+2582-2025txwac_qm82-blue2-Shreya A,2582,2025txwac,2025txwac_qm82,blue2,qm,82,0,7,0,Yes,0,0,0,0,0,0,0,0,0,1,2,4,0,0,7,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Shreya A," Not great with algae, is pretty good with coral. climbed 20 seconds earlier then necessary for some reason."
+2583-2025txwac_qm10-red2-Lekha S,2583,2025txwac,2025txwac_qm10,red2,qm,10,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,No Attempt,No Attempt,No,0,0,0,No,Lekha S, 
+2583-2025txwac_qm26-blue1-Arjun S,2583,2025txwac,2025txwac_qm26,blue1,qm,26,1,0,Sus,Yes,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,4,0,0,Park,No Attempt,No,2,0,2,No,Arjun S, Didn't score coral in tele-op
+2583-2025txwac_qm33-red1-Abhi N,2583,2025txwac,2025txwac_qm33,red1,qm,33,1,9,0,Yes,0,0,0,1,0,1,0,0,0,0,0,2,7,0,9,2,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+2583-2025txwac_qm37-blue3-Brace Y,2583,2025txwac,2025txwac_qm37,blue3,qm,37,5,0,Sus,No,0,0,2,3,0,4,2,0,5,0,0,0,0,0,0,0,0,0,Shallow Climb,Fast (< 3sec),No,0,0,0,No,Brace Y, 
+2583-2025txwac_qm4-red2-Lekha S,2583,2025txwac,2025txwac_qm4,red2,qm,4,0,5,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,5,0,6,0,0,0,Park,No Attempt,No,0,0,1,No,Lekha S, 
+2583-2025txwac_qm44-blue3-Lekha S,2583,2025txwac,2025txwac_qm44,blue3,qm,44,1,6,0,Yes,0,0,0,1,0,0,0,0,0,0,0,1,5,0,8,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Lekha S, robot was consistent with L4 scoring but was a bit slow
+2583-2025txwac_qm55-red1-Arjun M,2583,2025txwac,2025txwac_qm55,red1,qm,55,1,9,0,Yes,0,0,0,1,0,1,0,0,0,1,0,4,4,0,10,3,0,0,Park,No Attempt,No,0,0,0,No,Arjun M, 
+2583-2025txwac_qm59-red3-Arjun KS,2583,2025txwac,2025txwac_qm59,red3,qm,59,0,2,0,Yes,0,0,0,0,0,1,0,0,0,0,0,0,2,0,2,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Arjun KS, stopped at coral station but came back to life towards the end
+2583-2025txwac_qm63-red1-Arjun M,2583,2025txwac,2025txwac_qm63,red1,qm,63,0,3,0,Yes,0,0,0,0,0,1,0,0,0,0,0,0,3,0,2,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun M, 
+2583-2025txwac_qm71-red2-Pranav R,2583,2025txwac,2025txwac_qm71,red2,qm,71,1,8,0,Yes,0,0,0,1,0,0,0,0,0,0,0,2,6,0,11,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+2583-2025txwac_qm79-blue3-Brace Y,2583,2025txwac,2025txwac_qm79,blue3,qm,79,1,8,0,No,0,0,0,1,0,0,0,0,0,3,2,0,3,2,5,2,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, 
+2687-2025txwac_qm18-red1-Abhi N,2687,2025txwac,2025txwac_qm18,red1,qm,18,1,4,0,Yes,1,0,0,0,0,0,0,0,0,1,3,0,0,0,4,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Abhi N, 
+2687-2025txwac_qm2-red1-Abhi N,2687,2025txwac,2025txwac_qm2,red1,qm,2,0,5,0,Yes,0,0,0,0,0,0,0,0,0,0,5,0,0,0,8,1,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Abhi N, 
+2687-2025txwac_qm24-blue3-Pranav R,2687,2025txwac,2025txwac_qm24,blue3,qm,24,0,8,0,Yes,0,0,0,0,0,0,0,0,0,2,6,0,0,0,8,1,1,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Pranav R, 
+2687-2025txwac_qm28-red3-Victoria H,2687,2025txwac,2025txwac_qm28,red3,qm,28,0,6,0,Yes,0,0,0,0,0,0,0,0,0,0,6,0,0,0,6,1,0,0,Deep Climb,Medium (4-7sec),No,0,0,2,No,Victoria H, 
+2687-2025txwac_qm38-blue3-Lekha S,2687,2025txwac,2025txwac_qm38,blue3,qm,38,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,4,0,0,0,7,1,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Lekha S, missed a lot of coral from the station
+2687-2025txwac_qm45-blue2-Victoria H,2687,2025txwac,2025txwac_qm45,blue2,qm,45,1,8,0,Yes,1,0,0,0,0,0,0,0,0,0,8,0,0,0,9,2,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Victoria H, 
+2687-2025txwac_qm49-red1-Arjun KS,2687,2025txwac,2025txwac_qm49,red1,qm,49,0,7,0,Yes,0,0,0,0,0,0,0,0,0,4,3,0,0,0,8,0,0,0,Park,Slow (> 8sec),No,0,0,0,No,Arjun KS, 
+2687-2025txwac_qm56-red1-Arjun M,2687,2025txwac,2025txwac_qm56,red1,qm,56,0,7,0,Yes,0,0,0,0,0,0,0,0,0,0,6,0,1,0,7,2,0,0,Deep Climb,Slow (> 8sec),No,3,0,0,No,Arjun M, 
+2687-2025txwac_qm62-blue2-Abhi N,2687,2025txwac,2025txwac_qm62,blue2,qm,62,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Abhi N, 
+2687-2025txwac_qm70-red2-Pranav R,2687,2025txwac,2025txwac_qm70,red2,qm,70,0,5,0,Yes,0,0,0,0,0,0,0,0,0,0,5,0,0,0,6,2,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+2687-2025txwac_qm79-blue2-Shreya A,2687,2025txwac,2025txwac_qm79,blue2,qm,79,2,7,0,Yes,2,0,0,0,0,1,0,0,0,4,3,0,0,0,8,0,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Shreya A," Mostly focused on L1 in first half, then started aiming for L2. is barely able to reach L2. deep climb took around 10-15 seconds"
+2687-2025txwac_qm8-blue3-Arjun S,2687,2025txwac,2025txwac_qm8,blue3,qm,8,2,4,0,Yes,2,0,0,0,0,1,0,0,0,1,3,0,0,0,5,0,0,0,Park,No Attempt,No,0,0,0,No,Arjun S," ausTIN Cans were doing good defense and weren't letting it get much coral to score, not a fast robot"
+2689-2025txwac_qm11-blue1-Vishnu S,2689,2025txwac,2025txwac_qm11,blue1,qm,11,2,11,0,Yes,2,0,0,0,0,1,0,0,0,11,0,0,0,0,11,0,0,0,Park,No Attempt,No,0,0,0,No,Vishnu S, 
+2689-2025txwac_qm17-blue1-Jameson P,2689,2025txwac,2025txwac_qm17,blue1,qm,17,1,8,0,Yes,1,0,0,0,0,1,0,0,0,8,0,0,0,0,9,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Jameson P, 
+2689-2025txwac_qm22-blue2-Ian B,2689,2025txwac,2025txwac_qm22,blue2,qm,22,1,9,0,No,1,0,0,0,0,0,0,0,0,9,0,0,0,0,9,0,2,0,Deep Climb,Medium (4-7sec),No,3,0,0,No,Ian B, 
+2689-2025txwac_qm34-blue2-Shreya A,2689,2025txwac,2025txwac_qm34,blue2,qm,34,0,9,0,Yes,0,0,0,0,0,1,0,0,0,9,0,0,0,0,9,0,2,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Shreya A, 
+2689-2025txwac_qm38-red1-Vishnu S,2689,2025txwac,2025txwac_qm38,red1,qm,38,2,11,0,Yes,2,0,0,0,0,1,0,0,0,0,0,0,11,0,11,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Vishnu S, Pretty fast for cycling in L1
+2689-2025txwac_qm4-blue3-Arjun S,2689,2025txwac,2025txwac_qm4,blue3,qm,4,2,8,0,Yes,2,0,0,0,0,1,0,0,0,8,0,0,0,0,8,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,Yes,Arjun S," Paused for half the match, very fast driver knew what they were doing"
+2689-2025txwac_qm46-blue2-Victoria H,2689,2025txwac,2025txwac_qm46,blue2,qm,46,0,4,0,Yes,0,0,0,0,0,0,0,0,0,4,0,0,0,0,5,0,2,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Victoria H, 
+2689-2025txwac_qm50-red2-Prateek K,2689,2025txwac,2025txwac_qm50,red2,qm,50,0,7,0,Yes,0,0,0,0,0,0,0,0,0,7,0,0,0,0,9,0,0,0,Shallow Climb,Medium (4-7sec),No,0,0,0,No,Prateek K, 
+2689-2025txwac_qm55-red3-Arjun KS,2689,2025txwac,2025txwac_qm55,red3,qm,55,1,4,0,Yes,1,0,0,0,0,1,0,0,0,4,0,0,0,0,5,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Arjun KS, 
+2689-2025txwac_qm64-red1-Arjun M,2689,2025txwac,2025txwac_qm64,red1,qm,64,1,12,0,Yes,1,0,0,0,0,0,0,0,0,12,0,0,0,0,12,0,0,0,Deep Climb,Slow (> 8sec),No,3,0,0,No,Arjun M, Consistent L1 scoring
+2689-2025txwac_qm75-red3-Prateek K,2689,2025txwac,2025txwac_qm75,red3,qm,75,1,10,0,Yes,1,0,0,0,0,1,0,0,0,10,0,0,0,0,10,0,0,0,Deep Climb,Medium (4-7sec),Yes,0,0,0,No,Prateek K, 
+2689-2025txwac_qm81-red3-Prateek K,2689,2025txwac,2025txwac_qm81,red3,qm,81,1,12,0,No,0,0,0,1,0,1,0,0,0,0,0,0,12,0,12,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Prateek K, 
+2714-2025txwac_qm15-blue1-Jameson P,2714,2025txwac,2025txwac_qm15,blue1,qm,15,1,7,0,Yes,0,0,0,1,0,0,0,0,0,1,0,0,6,0,0,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Jameson P, 
+2714-2025txwac_qm22-blue1-Arjun S,2714,2025txwac,2025txwac_qm22,blue1,qm,22,0,6,0,Yes,0,0,0,0,0,2,0,0,0,0,0,2,4,0,9,0,0,0,Deep Climb,Slow (> 8sec),No,3,0,0,No,Arjun S," L4 is not accurate, very slow in moving and doing everything else."
+2714-2025txwac_qm3-blue3-Brace Y,2714,2025txwac,2025txwac_qm3,blue3,qm,3,3,7,0,No,2,0,0,1,1,2,0,0,0,0,0,0,7,0,7,1,0,0,Deep Climb,Medium (4-7sec),No,0,0,1,No,Brace Y, 
+2714-2025txwac_qm30-red2-Arjun M,2714,2025txwac,2025txwac_qm30,red2,qm,30,0,7,0,Yes,0,0,0,0,0,1,0,0,0,1,0,2,4,0,8,1,0,0,Park,No Attempt,No,0,0,0,No,Arjun M,Tried to climb but failed
+2714-2025txwac_qm39-red2-Ian B,2714,2025txwac,2025txwac_qm39,red2,qm,39,0,7,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,6,0,8,0,0,0,Park,No Attempt,No,2,0,5,No,Ian B, 
+2714-2025txwac_qm43-blue2-Victoria H,2714,2025txwac,2025txwac_qm43,blue2,qm,43,1,8,0,Yes,0,0,0,1,0,0,0,0,0,0,0,3,5,0,9,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Victoria H, almost got deep cage climb but ran out of time
+2714-2025txwac_qm53-red1-Arjun M,2714,2025txwac,2025txwac_qm53,red1,qm,53,0,8,0,Yes,0,0,0,0,0,1,0,0,0,3,0,0,5,0,8,0,0,0,Deep Climb,Medium (4-7sec),No,3,0,0,No,Arjun M,The Cora would land in L1 every time BBQ missed their L4
+2714-2025txwac_qm57-red1-Arjun M,2714,2025txwac,2025txwac_qm57,red1,qm,57,1,9,0,Yes,1,0,0,0,0,2,0,0,0,0,0,0,9,0,10,1,0,0,Park,No Attempt,No,4,0,0,No,Arjun M,They attempted a deep climb but didn't make it in time
+2714-2025txwac_qm70-blue2-Lekha S,2714,2025txwac,2025txwac_qm70,blue2,qm,70,1,0,Sus,Yes,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Lekha S," while trying to score L4 in auton, the robot caught on the reef and stayed there the entire match :("
+2714-2025txwac_qm78-blue3-Brace Y,2714,2025txwac,2025txwac_qm78,blue3,qm,78,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Shallow Climb,No Attempt,No,0,0,1,No,Brace Y,Robot did nothing except climb
+2714-2025txwac_qm8-red3-Srinand T,2714,2025txwac,2025txwac_qm8,red3,qm,8,0,5,0,Yes,0,0,0,0,0,0,1,0,0,0,0,3,2,0,0,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Srinand T, 
+2881-2025txwac_qm19-blue2-Hitu C,2881,2025txwac,2025txwac_qm19,blue2,qm,19,0,5,0,Yes,0,0,0,0,0,0,0,0,0,0,1,2,2,0,5,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Hitu C, 
+2881-2025txwac_qm19-blue2-Shreya A,2881,2025txwac,2025txwac_qm19,blue2,qm,19,0,5,0,Yes,0,0,0,0,0,0,0,0,0,0,0,3,2,0,4,0,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Shreya A, 
+2881-2025txwac_qm25-red3-Victoria H,2881,2025txwac,2025txwac_qm25,red3,qm,25,0,7,0,Yes,0,0,0,0,0,0,0,0,0,2,1,0,4,0,7,1,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+2881-2025txwac_qm34-red1-Abhi N,2881,2025txwac,2025txwac_qm34,red1,qm,34,1,5,0,Yes,0,0,0,1,0,0,0,0,0,0,0,0,5,0,5,2,0,0,Deep Climb,Slow (> 8sec),No,2,0,0,No,Abhi N, 
+2881-2025txwac_qm40-red3-Pranav R,2881,2025txwac,2025txwac_qm40,red3,qm,40,1,3,0,No,0,0,0,1,0,0,0,0,0,0,2,0,1,0,4,2,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Pranav R, 
+2881-2025txwac_qm45-red2-Vishnu S,2881,2025txwac,2025txwac_qm45,red2,qm,45,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Vishnu S, Waited a lot at the source
+2881-2025txwac_qm5-blue1-Vishnu S,2881,2025txwac,2025txwac_qm5,blue1,qm,5,0,10,0,Yes,0,0,0,0,0,2,0,0,0,0,0,0,10,0,10,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Vishnu S, 
+2881-2025txwac_qm51-red1-Arjun M,2881,2025txwac,2025txwac_qm51,red1,qm,51,1,6,0,Yes,0,0,0,1,0,0,0,0,0,0,0,0,6,0,6,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Arjun M," Really consistent at scoring L4
+Corals"
+2881-2025txwac_qm57-red3-Arjun KS,2881,2025txwac,2025txwac_qm57,red3,qm,57,1,2,0,Yes,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,Park,No Attempt,No,0,0,4,No,Arjun KS, switched over to defense after missing lots of coral
+2881-2025txwac_qm74-blue1-Brace Y,2881,2025txwac,2025txwac_qm74,blue1,qm,74,0,9,0,No,0,0,0,0,0,0,0,0,0,0,0,0,9,0,9,0,0,0,Park,Medium (4-7sec),No,0,0,0,No,Brace Y, 
+2881-2025txwac_qm81-red2-Abhi N,2881,2025txwac,2025txwac_qm81,red2,qm,81,1,7,0,Yes,0,0,0,1,0,0,0,0,0,0,0,0,7,0,9,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N, 
+2950-2025txwac_qm11-red1-Victoria H,2950,2025txwac,2025txwac_qm11,red1,qm,11,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,2,0,Park,No Attempt,No,1,0,0,No,Victoria H, 
+2950-2025txwac_qm17-blue2-Shreya A,2950,2025txwac,2025txwac_qm17,blue2,qm,17,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,Park,No Attempt,No,0,0,3,No,Shreya A, 
+2950-2025txwac_qm2-blue2-Hitu C,2950,2025txwac,2025txwac_qm2,blue2,qm,2,0,2,0,Yes,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,0,2,0,Park,No Attempt,Yes,0,0,2,No,Hitu C, 
+2950-2025txwac_qm23-red3-Victoria H,2950,2025txwac,2025txwac_qm23,red3,qm,23,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,0,2,0,No Attempt,No Attempt,No,0,0,0,No,Victoria H, 
+2950-2025txwac_qm30-red3-Arjun KS,2950,2025txwac,2025txwac_qm30,red3,qm,30,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,No Attempt,No Attempt,No,4,0,1,No,Arjun KS, missed an l2 then switched to algae
+2950-2025txwac_qm37-blue1-Srinand T,2950,2025txwac,2025txwac_qm37,blue1,qm,37,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,Park,No Attempt,No,3,0,0,No,Srinand T, Penantly
+2950-2025txwac_qm48-red1-Arjun KS,2950,2025txwac,2025txwac_qm48,red1,qm,48,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,Park,No Attempt,No,3,1,0,No,Arjun KS, 
+2950-2025txwac_qm58-red1-Arjun M,2950,2025txwac,2025txwac_qm58,red1,qm,58,0,0,0,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,3,0,4,No,Arjun M, The bot got stuck on an algae mid game 
+2950-2025txwac_qm67-blue3-Victoria H,2950,2025txwac,2025txwac_qm67,blue3,qm,67,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,Park,No Attempt,No,0,0,2,No,Victoria H, missed each time they tried to score coral on the reef in L2
+2950-2025txwac_qm72-red2-Pranav R,2950,2025txwac,2025txwac_qm72,red2,qm,72,0,3,0,Yes,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,0,Park,No Attempt,No,0,0,0,No,Pranav R, 
+2950-2025txwac_qm81-blue2-Shreya A,2950,2025txwac,2025txwac_qm81,blue2,qm,81,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,No Attempt,No Attempt,No,0,0,0,No,Shreya A,"only focuses on algae, the only chance they had for coral (the preloaded coral), they were misalgined by a lot. no coral intake mechanism"
+2969-2025txwac_qm15-red1-Abhi N,2969,2025txwac,2025txwac_qm15,red1,qm,15,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N," No scoring mechanisms, parked for whole game at the barge."
+2969-2025txwac_qm26-blue3-Pranav R,2969,2025txwac,2025txwac_qm26,blue3,qm,26,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Pranav R, 
+2969-2025txwac_qm31-blue2-Shreya A,2969,2025txwac,2025txwac_qm31,blue2,qm,31,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,5,No,Shreya A, they were a pancake bot ??
+2969-2025txwac_qm35-red3-Arjun KS,2969,2025txwac,2025txwac_qm35,red3,qm,35,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,No,Arjun KS, 
+2969-2025txwac_qm46-red2-Vishnu S,2969,2025txwac,2025txwac_qm46,red2,qm,46,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Vishnu S, 
+2969-2025txwac_qm5-blue3-Arjun S,2969,2025txwac,2025txwac_qm5,blue3,qm,5,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,1,No,Arjun S," No way to manipulate the algae or coral, defense was not that good"
+2969-2025txwac_qm52-red2-Prateek K,2969,2025txwac,2025txwac_qm52,red2,qm,52,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,Yes,0,0,5,Yes,Prateek K, Robot seemed to roll the algae to team a little. Was unable to move for 15 seconds
+2969-2025txwac_qm62-blue1-Jameson P,2969,2025txwac,2025txwac_qm62,blue1,qm,62,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,5,Yes,Jameson P, Powered off not even disabled
+2969-2025txwac_qm67-red1-Vishnu S,2969,2025txwac,2025txwac_qm67,red1,qm,67,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,3,No,Vishnu S, 
+2969-2025txwac_qm75-red1-Arjun KS,2969,2025txwac,2025txwac_qm75,red1,qm,75,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,5,No,Arjun KS, 
+2969-2025txwac_qm9-blue2-Pranav R,2969,2025txwac,2025txwac_qm9,blue2,qm,9,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R,Is a pancake Bot. Got stuck on an algae
+3005-2025txwac_qm12-red3-Srinand T,3005,2025txwac,2025txwac_qm12,red3,qm,12,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Shallow Climb,Medium (4-7sec),No,0,0,0,No,Srinand T, 
+3005-2025txwac_qm16-blue1-Jameson P,3005,2025txwac,2025txwac_qm16,blue1,qm,16,1,11,0,Yes,0,0,0,1,0,0,0,0,0,2,1,3,5,13,0,1,1,0,Park,No Attempt,No,0,0,0,No,Jameson P, 
+3005-2025txwac_qm24-red3-Victoria H,3005,2025txwac,2025txwac_qm24,red3,qm,24,2,8,0,Yes,0,0,0,2,0,2,0,0,0,0,0,2,6,0,10,2,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+3005-2025txwac_qm31-red1-Abhi N,3005,2025txwac,2025txwac_qm31,red1,qm,31,1,8,0,Yes,0,0,0,1,0,2,0,0,0,0,5,3,0,0,9,5,4,0,Park,No Attempt,No,0,0,0,No,Abhi N, 
+3005-2025txwac_qm37-blue2-Victoria H,3005,2025txwac,2025txwac_qm37,blue2,qm,37,1,15,0,Yes,0,0,0,1,0,1,0,0,0,0,5,6,4,0,14,3,0,0,Deep Climb,Fast (< 3sec),No,0,0,1,No,Victoria H, 
+3005-2025txwac_qm42-red1-Brace Y,3005,2025txwac,2025txwac_qm42,red1,qm,42,0,8,0,No,0,0,0,0,0,0,0,0,0,0,0,3,5,0,6,1,0,2,Deep Climb,Medium (4-7sec),No,0,0,0,No,Brace Y, 
+3005-2025txwac_qm50-blue1-Jameson P,3005,2025txwac,2025txwac_qm50,blue1,qm,50,2,12,0,Yes,0,0,0,2,0,0,0,0,0,0,0,5,7,0,12,3,0,2,Park,No Attempt,No,0,0,0,No,Jameson P, 
+3005-2025txwac_qm57-blue2-Abhi N,3005,2025txwac,2025txwac_qm57,blue2,qm,57,2,8,0,Yes,0,0,0,2,0,2,0,0,0,0,0,3,5,0,9,3,0,4,Deep Climb,Fast (< 3sec),No,0,0,0,No,Abhi N,
+3005-2025txwac_qm6-blue3-Arjun S,3005,2025txwac,2025txwac_qm6,blue3,qm,6,2,0,Sus,Yes,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,1,0,Park,No Attempt,No,1,0,4,No,Arjun S," Both algae and coral both got stuck in the robot, but other than that amazing auton, and really fast scoring for coral and algae "
+3005-2025txwac_qm62-red3-Arjun KS,3005,2025txwac,2025txwac_qm62,red3,qm,62,3,6,0,Yes,0,0,0,3,0,2,0,0,0,0,0,2,4,0,6,3,2,2,Deep Climb,Fast (< 3sec),No,2,0,0,No,Arjun KS, amazing 2nd unicorn
+3005-2025txwac_qm69-red2-Pranav R,3005,2025txwac,2025txwac_qm69,red2,qm,69,2,15,0,Yes,0,0,0,2,0,0,0,0,0,0,4,3,8,0,12,4,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R," Extremely fast cycle time, very fast reef alignment "
+3005-2025txwac_qm78-blue2-Shreya A,3005,2025txwac,2025txwac_qm78,blue2,qm,78,3,11,0,Yes,0,0,0,3,0,2,0,0,0,1,2,2,6,0,11,1,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Shreya A,"Good L4, aims for L2 and L3 near endgame, has attachement for algae but doesnt give that much time to it compared to algae. climb is pretty good."
+3310-2025txwac_qm12-red1-Victoria H,3310,2025txwac,2025txwac_qm12,red1,qm,12,1,1,0,Yes,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,2,0,1,Park,No Attempt,No,0,0,0,No,Victoria H," coral got stuck on drivebase, they couldn't take it out because they wiuld have tipped over so they focused on algea instead "
+3310-2025txwac_qm27-blue2-Ian B,3310,2025txwac,2025txwac_qm27,blue2,qm,27,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,5,Park,No Attempt,No,0,0,0,No,Ian B, 
+3310-2025txwac_qm32-blue3-Brace Y,3310,2025txwac,2025txwac_qm32,blue3,qm,32,0,4,0,No,0,0,0,0,0,0,0,0,0,1,1,0,2,1,3,1,0,0,Park,Fast (< 3sec),No,0,0,0,No,Brace Y, 
+3310-2025txwac_qm41-blue1-Srinand T,3310,2025txwac,2025txwac_qm41,blue1,qm,41,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Park,No Attempt,No,0,0,0,No,Srinand T, 
+3310-2025txwac_qm47-red1-Ian B,3310,2025txwac,2025txwac_qm47,red1,qm,47,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,4,No Attempt,No Attempt,No,4,0,0,No,Ian B, 
+3310-2025txwac_qm5-red3-Srinand T,3310,2025txwac,2025txwac_qm5,red3,qm,5,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,0,6,Park,No Attempt,No,0,0,0,No,Srinand T, Primarily algae
+3310-2025txwac_qm54-red3-Arjun KS,3310,2025txwac,2025txwac_qm54,red3,qm,54,0,5,0,Yes,0,0,0,0,0,0,0,0,0,1,1,2,1,0,5,0,0,0,Park,No Attempt,No,0,0,0,No,Arjun KS, 
+3310-2025txwac_qm60-blue3-Brace Y,3310,2025txwac,2025txwac_qm60,blue3,qm,60,0,11,0,No,0,0,0,0,0,0,0,0,0,0,4,4,3,1,10,2,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, 
+3310-2025txwac_qm74-red2-Abhi N,3310,2025txwac,2025txwac_qm74,red2,qm,74,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,4,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+3310-2025txwac_qm79-red2-Abhi N,3310,2025txwac,2025txwac_qm79,red2,qm,79,0,6,0,Yes,0,0,0,0,0,0,0,0,0,0,0,4,2,0,7,3,0,0,Park,No Attempt,Yes,0,0,0,No,Abhi N, 
+418-2025txwac_qm10-blue3-Arjun S,418,2025txwac,2025txwac_qm10,blue3,qm,10,1,8,0,Yes,0,0,0,1,0,0,0,0,0,0,0,0,8,0,10,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Arjun S," Really fast in scoring L4, under 5 sec to score 1 L4 with almost 99 accuracy. Parking was medium speed."
+418-2025txwac_qm16-red2-Arjun KS,418,2025txwac,2025txwac_qm16,red2,qm,16,0,5,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,4,0,5,0,0,0,No Attempt,No Attempt,No,4,0,0,No,Arjun KS,couldnt do climb at the end because they got stuck on an algae
+418-2025txwac_qm28-blue1-Vaed D,418,2025txwac,2025txwac_qm28,blue1,qm,28,0,7,0,Yes,0,0,0,0,0,1,0,0,0,0,0,0,7,0,8,2,0,0,Park,No Attempt,No,0,0,0,No,Vaed D, Very effective at scoring but not extremely fast.
+418-2025txwac_qm40-blue2-Victoria H,418,2025txwac,2025txwac_qm40,blue2,qm,40,0,10,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,9,0,12,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Victoria H, 
+418-2025txwac_qm48-red2-Prateek K,418,2025txwac,2025txwac_qm48,red2,qm,48,1,8,0,Yes,0,0,0,1,0,0,0,0,0,0,0,0,8,1,7,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Prateek K, 
+418-2025txwac_qm54-red2-Prateek K,418,2025txwac,2025txwac_qm54,red2,qm,54,10,0,Sus,Yes,4,0,0,6,0,9,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,1,0,0,No,Prateek K, 
+418-2025txwac_qm6-blue1-Vishnu S,418,2025txwac,2025txwac_qm6,blue1,qm,6,1,7,0,Yes,1,0,0,0,0,1,0,0,0,0,0,0,7,0,8,0,0,0,Park,No Attempt,No,0,0,0,No,Vishnu S, 
+418-2025txwac_qm60-red3-Arjun KS,418,2025txwac,2025txwac_qm60,red3,qm,60,0,8,0,Yes,0,0,0,0,0,0,0,0,0,3,0,0,5,0,8,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun KS, 
+418-2025txwac_qm67-red3-Ian B,418,2025txwac,2025txwac_qm67,red3,qm,67,1,8,0,Yes,0,0,0,1,0,0,0,0,0,0,0,0,8,0,10,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Ian B, 
+418-2025txwac_qm73-blue1-Srinand T,418,2025txwac,2025txwac_qm73,blue1,qm,73,0,9,0,Yes,0,0,0,0,0,0,0,0,0,2,3,2,2,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Srinand T, 
+418-2025txwac_qm77-red3-Prateek K,418,2025txwac,2025txwac_qm77,red3,qm,77,0,9,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,9,0,7,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Prateek K, 
+4610-2025txwac_qm1-red2-Arjun M,4610,2025txwac,2025txwac_qm1,red2,qm,1,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Arjun M, They were mostly playing defense at the start and they dropped a lot of coral
+4610-2025txwac_qm14-blue2-Shreya A,4610,2025txwac,2025txwac_qm14,blue2,qm,14,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,Park,No Attempt,Yes,4,0,2,No,Shreya A," They didn't score any corals, they only focused on picking up the algea from the floor and putting it into the processer. "
+4610-2025txwac_qm19-red1-Abhi N,4610,2025txwac,2025txwac_qm19,red1,qm,19,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, Stayed at one place all match(except for leaving start line)
+4610-2025txwac_qm26-red2-Lekha S,4610,2025txwac,2025txwac_qm26,red2,qm,26,0,1,0,No,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8,1,2,2,Park,No Attempt,No,0,0,0,No,Lekha S, missed a lot of coral from station
+4610-2025txwac_qm34-red3-Arjun KS,4610,2025txwac,2025txwac_qm34,red3,qm,34,0,2,0,Yes,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,2,0,No Attempt,No Attempt,No,0,0,0,No,Arjun KS, 
+4610-2025txwac_qm38-blue1-Srinand T,4610,2025txwac,2025txwac_qm38,blue1,qm,38,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,No,Srinand T, Defense bot
+4610-2025txwac_qm43-blue1-Srinand T,4610,2025txwac,2025txwac_qm43,blue1,qm,43,0,0,0,Yes,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Srinand T, 
+4610-2025txwac_qm49-blue3-Brace Y,4610,2025txwac,2025txwac_qm49,blue3,qm,49,0,4,0,No,0,0,0,0,0,0,0,0,0,1,1,1,1,0,2,1,0,0,No Attempt,No Attempt,No,0,0,2,No,Brace Y, 
+4610-2025txwac_qm58-blue2-Abhi N,4610,2025txwac,2025txwac_qm58,blue2,qm,58,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,3,0,0,0,7,0,1,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+4610-2025txwac_qm64-red3-Arjun KS,4610,2025txwac,2025txwac_qm64,red3,qm,64,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,5,No,Arjun KS, 
+4610-2025txwac_qm69-red3-Ian B,4610,2025txwac,2025txwac_qm69,red3,qm,69,0,3,0,Yes,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,1,0,No Attempt,No Attempt,No,0,0,0,No,Ian B, 
+4610-2025txwac_qm77-blue1-Arjun M,4610,2025txwac,2025txwac_qm77,blue1,qm,77,0,7,0,Yes,0,0,0,0,0,0,0,0,0,2,5,0,0,0,13,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun M, Cycling
+5212-2025txwac_qm11-red3-Srinand T,5212,2025txwac,2025txwac_qm11,red3,qm,11,0,1,0,No,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Srinand T, 
+5212-2025txwac_qm21-red3-Prateek K,5212,2025txwac,2025txwac_qm21,red3,qm,21,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Prateek K, 
+5212-2025txwac_qm27-red3-Victoria H,5212,2025txwac,2025txwac_qm27,red3,qm,27,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, did not use their scorer at all then parked
+5212-2025txwac_qm32-blue1-Jameson P,5212,2025txwac,2025txwac_qm32,blue1,qm,32,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Jameson P, 
+5212-2025txwac_qm37-red1-Vishnu S,5212,2025txwac,2025txwac_qm37,red1,qm,37,1,0,Sus,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,Yes,0,0,1,Yes,Vishnu S, 
+5212-2025txwac_qm43-red2-Vishnu S,5212,2025txwac,2025txwac_qm43,red2,qm,43,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,3,No,Vishnu S, 
+5212-2025txwac_qm49-blue1-Jameson P,5212,2025txwac,2025txwac_qm49,blue1,qm,49,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Jameson P, 
+5212-2025txwac_qm59-red2-Prateek K,5212,2025txwac,2025txwac_qm59,red2,qm,59,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,Park,No Attempt,No,0,0,0,No,Prateek K, 
+5212-2025txwac_qm6-blue2-Pranav R,5212,2025txwac,2025txwac_qm6,blue2,qm,6,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,1,No,Pranav R, Stood by the side for 75% of the match
+5212-2025txwac_qm63-blue2-Abhi N,5212,2025txwac,2025txwac_qm63,blue2,qm,63,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Abhi N, 
+5212-2025txwac_qm69-blue3-Victoria H,5212,2025txwac,2025txwac_qm69,blue3,qm,69,0,6,0,Yes,0,0,0,0,0,0,0,0,0,1,5,0,0,0,8,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Victoria H, 
+5212-2025txwac_qm76-blue1-Arjun M,5212,2025txwac,2025txwac_qm76,blue1,qm,76,1,4,0,Yes,1,0,0,0,0,0,0,0,0,4,0,0,0,0,7,0,0,0,No Attempt,No Attempt,No,1,0,0,No,Arjun M, Disabled near the end of the match
+5503-2025txwac_qm13-red3-Srinand T,5503,2025txwac,2025txwac_qm13,red3,qm,13,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Srinand T,Defense bot
+5503-2025txwac_qm17-blue3-Brace Y,5503,2025txwac,2025txwac_qm17,blue3,qm,17,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,3,No,Brace Y, 
+5503-2025txwac_qm2-red3-Prateek K,5503,2025txwac,2025txwac_qm2,red3,qm,2,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,2,0,0,Yes,Prateek K, Seems to move on auton then never moves again.
+5503-2025txwac_qm21-blue1-Hitu C,5503,2025txwac,2025txwac_qm21,blue1,qm,21,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Hitu C, 
+5503-2025txwac_qm34-red2-Arjun M,5503,2025txwac,2025txwac_qm34,red2,qm,34,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,2,0,1,Yes,Arjun M,Robot disabled mid match in the beginning of teleop
+5503-2025txwac_qm39-blue2-Victoria H,5503,2025txwac,2025txwac_qm39,blue2,qm,39,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Victoria H, robot stopped moving two minutes in
+5503-2025txwac_qm44-blue2-Victoria H,5503,2025txwac,2025txwac_qm44,blue2,qm,44,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,3,No,Victoria H, stayed at opposing teams coral station
+5503-2025txwac_qm54-red1-Arjun M,5503,2025txwac,2025txwac_qm54,red1,qm,54,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,1,0,5,No,Arjun M, Played defense whole game
+5503-2025txwac_qm61-blue3-Brace Y,5503,2025txwac,2025txwac_qm61,blue3,qm,61,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, Didn't see much.
+5503-2025txwac_qm78-blue1-Arjun M,5503,2025txwac,2025txwac_qm78,blue1,qm,78,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Arjun M, Started grounding out during the match
+5613-2025txwac_qm12-red2-Lekha S,5613,2025txwac,2025txwac_qm12,red2,qm,12,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Lekha S, tried playing defense - didn't do much thought 
+5613-2025txwac_qm18-blue1-Jameson P,5613,2025txwac,2025txwac_qm18,blue1,qm,18,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Jameson P,
+5613-2025txwac_qm23-blue3-Pranav R,5613,2025txwac,2025txwac_qm23,blue3,qm,23,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,Yes,0,0,0,No,Pranav R, Shuttled fallen algae to processor 
+5613-2025txwac_qm30-blue3-Brace Y,5613,2025txwac,2025txwac_qm30,blue3,qm,30,0,1,0,No,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Brace Y, 
+5613-2025txwac_qm39-red3-Pranav R,5613,2025txwac,2025txwac_qm39,red3,qm,39,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Pranav R, 
+5613-2025txwac_qm4-blue2-Pranav R,5613,2025txwac,2025txwac_qm4,blue2,qm,4,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Pranav R, 
+5613-2025txwac_qm45-blue3-Lekha S,5613,2025txwac,2025txwac_qm45,blue3,qm,45,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Park,No Attempt,No,0,0,1,No,Lekha S," tried pushing algae into processor by using the robot, but it didn't work"
+5613-2025txwac_qm54-blue2-Abhi N,5613,2025txwac,2025txwac_qm54,blue2,qm,54,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Abhi N, Got stuck on an algae Mid-match
+5613-2025txwac_qm59-red1-Arjun M,5613,2025txwac,2025txwac_qm59,red1,qm,59,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,2,No,Arjun M, 
+5613-2025txwac_qm65-red1-Arjun M,5613,2025txwac,2025txwac_qm65,red1,qm,65,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,No,Arjun M, Defense bot
+5613-2025txwac_qm75-blue1-Arjun M,5613,2025txwac,2025txwac_qm75,blue1,qm,75,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,3,No,Arjun M, 
+5613-2025txwac_qm80-red2-Abhi N,5613,2025txwac,2025txwac_qm80,red2,qm,80,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+5682-2025txwac_qm20-red2-Arjun KS,5682,2025txwac,2025txwac_qm20,red2,qm,20,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,3,No,Arjun KS, 
+5682-2025txwac_qm27-red2-Lekha S,5682,2025txwac,2025txwac_qm27,red2,qm,27,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Lekha S," didn't move much during teleop 
+ parked but helped alliance and left area"
+5682-2025txwac_qm34-blue3-Brace Y,5682,2025txwac,2025txwac_qm34,blue3,qm,34,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Brace Y," Pancake bot -_-
+"
+5682-2025txwac_qm4-red1-Victoria H,5682,2025txwac,2025txwac_qm4,red1,qm,4,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Victoria H, push bot
+5682-2025txwac_qm41-red1-Brace Y,5682,2025txwac,2025txwac_qm41,red1,qm,41,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, Just a little pancake robot
+5682-2025txwac_qm52-blue2-Abhi N,5682,2025txwac,2025txwac_qm52,blue2,qm,52,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Abhi N, 
+5682-2025txwac_qm58-blue3-Brace Y,5682,2025txwac,2025txwac_qm58,blue3,qm,58,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, I couldn't see anything 
+5682-2025txwac_qm66-blue3-Victoria H,5682,2025txwac,2025txwac_qm66,blue3,qm,66,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Victoria H,stayed at opposing teams coral stations
+5682-2025txwac_qm73-red1-Vishnu S,5682,2025txwac,2025txwac_qm73,red1,qm,73,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,5,No,Vishnu S, 
+5682-2025txwac_qm78-red3-Prateek K,5682,2025txwac,2025txwac_qm78,red3,qm,78,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Prateek K, Robot is not moving. Bumper may be broken
+5682-2025txwac_qm9-red2-Lekha S,5682,2025txwac,2025txwac_qm9,red2,qm,9,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Lekha S, push bot - not much defensive activity except knocking algae. in the middle of the match they got stuck on an algae piece and couldn't move
+5866-2025txwac_qm14-red3-Prateek K,5866,2025txwac,2025txwac_qm14,red3,qm,14,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0,No Attempt,No Attempt,No,4,0,1,No,Prateek K, 
+5866-2025txwac_qm2-red2-Arjun M,5866,2025txwac,2025txwac_qm2,red2,qm,2,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,Park,No Attempt,No,2,0,0,No,Arjun M, Pretty slow
+5866-2025txwac_qm27-blue1-Arjun S,5866,2025txwac,2025txwac_qm27,blue1,qm,27,0,1,0,No,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,Park,No Attempt,No,0,0,0,No,Arjun S, Didn't score coral at all. 
+5866-2025txwac_qm33-blue3-Brace Y,5866,2025txwac,2025txwac_qm33,blue3,qm,33,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, 
+5866-2025txwac_qm40-red1-Vishnu S,5866,2025txwac,2025txwac_qm40,red1,qm,40,0,2,0,Yes,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,2,0,No Attempt,No Attempt,No,0,0,0,No,Vishnu S, 
+5866-2025txwac_qm47-blue1-Srinand T,5866,2025txwac,2025txwac_qm47,blue1,qm,47,0,0,0,Yes,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Srinand T, 
+5866-2025txwac_qm53-red2-Prateek K,5866,2025txwac,2025txwac_qm53,red2,qm,53,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,No Attempt,No Attempt,No,1,0,0,No,Prateek K, 
+5866-2025txwac_qm57-blue1-Jameson P,5866,2025txwac,2025txwac_qm57,blue1,qm,57,0,5,0,Yes,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,2,0,4,No Attempt,No Attempt,No,0,0,0,No,Jameson P, 
+5866-2025txwac_qm65-red2-Prateek K,5866,2025txwac,2025txwac_qm65,red2,qm,65,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,No Attempt,No Attempt,No,1,1,1,No,Prateek K, 
+5866-2025txwac_qm73-blue3-Victoria H,5866,2025txwac,2025txwac_qm73,blue3,qm,73,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,Park,No Attempt,No,2,0,0,No,Victoria H, 
+5866-2025txwac_qm77-blue2-Shreya A,5866,2025txwac,2025txwac_qm77,blue2,qm,77,0,1,0,No,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,3,0,Park,No Attempt,No,0,0,0,No,Shreya A,"no coral intake, scored one coral only because it was preloaded. only focuses on removing the algae from the reef and putting it in the processor. arm looks a bit flimsy."
+5866-2025txwac_qm9-red3-Srinand T,5866,2025txwac,2025txwac_qm9,red3,qm,9,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,Park,No Attempt,No,1,0,0,No,Srinand T, 
+6377-2025txwac_qm12-blue3-Arjun S,6377,2025txwac,2025txwac_qm12,blue3,qm,12,1,7,0,Yes,0,0,0,1,0,0,0,0,0,7,0,0,0,2,8,0,0,0,Park,No Attempt,No,0,0,0,No,Arjun S, Can't say bad about this team.
+6377-2025txwac_qm21-blue2-Shreya A,6377,2025txwac,2025txwac_qm21,blue2,qm,21,0,14,0,No,0,0,0,0,0,0,0,0,0,14,0,0,0,14,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Shreya A," YAYYYYYYYYYYY ???HOWDY???  ???BOTS???
+WOOO HOOOO"
+6377-2025txwac_qm25-red1-Srinand T,6377,2025txwac,2025txwac_qm25,red1,qm,25,0,8,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Srinand T, Honestly the best team I have ever seen  no bias. 
+6377-2025txwac_qm33-red2-Arjun M,6377,2025txwac,2025txwac_qm33,red2,qm,33,1,12,0,Yes,1,0,0,0,0,0,0,0,0,12,0,0,0,13,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun M, Greatest team of all time
+6377-2025txwac_qm38-blue2-Victoria H,6377,2025txwac,2025txwac_qm38,blue2,qm,38,1,12,0,Yes,1,0,0,0,0,0,0,0,0,12,0,0,0,15,0,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+6377-2025txwac_qm55-blue1-Jameson P,6377,2025txwac,2025txwac_qm55,blue1,qm,55,1,8,0,Yes,1,0,0,0,0,0,0,0,0,1,0,0,7,8,0,0,0,0,Park,No Attempt,No,0,0,0,No,Jameson P, 
+6377-2025txwac_qm62-red1-Arjun M,6377,2025txwac,2025txwac_qm62,red1,qm,62,1,10,0,Yes,0,0,0,1,0,1,0,0,0,4,5,0,1,11,2,0,0,0,Park,No Attempt,No,1,0,0,No,Arjun M, Greatest team of all time
+6377-2025txwac_qm66-blue2-Srinand T,6377,2025txwac,2025txwac_qm66,blue2,qm,66,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Srinand T, 
+6377-2025txwac_qm7-red1-Victoria H,6377,2025txwac,2025txwac_qm7,red1,qm,7,1,8,0,Yes,0,0,0,1,0,1,0,0,0,2,3,2,1,9,0,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+6377-2025txwac_qm72-red3-Ian B,6377,2025txwac,2025txwac_qm72,red3,qm,72,0,10,0,Yes,0,0,0,0,0,0,0,0,0,3,1,0,6,12,0,0,0,0,No Attempt,No Attempt,No,4,0,0,No,Ian B, 
+6377-2025txwac_qm76-blue3-Brace Y,6377,2025txwac,2025txwac_qm76,blue3,qm,76,0,8,0,No,0,0,0,0,0,0,0,0,0,1,1,2,4,1,7,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, Best team
+6526-2025txwac_qm14-red2-Arjun KS,6526,2025txwac,2025txwac_qm14,red2,qm,14,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Arjun KS, mechanical failure. angry team
+6526-2025txwac_qm22-blue3-Pranav R,6526,2025txwac,2025txwac_qm22,blue3,qm,22,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, Just stopped near processor
+6526-2025txwac_qm29-blue1-Vaed D,6526,2025txwac,2025txwac_qm29,blue1,qm,29,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Park,No Attempt,No,0,0,0,No,Vaed D,Didn't pick up or take any coral and neither did it play defense. Only algae removal.
+6526-2025txwac_qm37-red2-Ian B,6526,2025txwac,2025txwac_qm37,red2,qm,37,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Ian B, Didn't do anything the whole game except park at the end
+6526-2025txwac_qm37-red2-Lekha S,6526,2025txwac,2025txwac_qm37,red2,qm,37,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,1,No,Lekha S, attempted to take algae with arm but failed - the algae kept on moving away 
+6526-2025txwac_qm42-red2-Vishnu S,6526,2025txwac,2025txwac_qm42,red2,qm,42,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Park,No Attempt,No,0,0,0,No,Vishnu S," I am not fully sure if they parked they might be outside the box
+"
+6526-2025txwac_qm53-blue1-Jameson P,6526,2025txwac,2025txwac_qm53,blue1,qm,53,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,2,No,Jameson P, 
+6526-2025txwac_qm60-blue1-Jameson P,6526,2025txwac,2025txwac_qm60,blue1,qm,60,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Park,No Attempt,No,0,0,0,Yes,Jameson P, 
+6526-2025txwac_qm67-red2-Pranav R,6526,2025txwac,2025txwac_qm67,red2,qm,67,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+6526-2025txwac_qm71-blue1-Srinand T,6526,2025txwac,2025txwac_qm71,blue1,qm,71,0,0,0,Yes,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,2,No,Srinand T, 
+6526-2025txwac_qm76-red3-Prateek K,6526,2025txwac,2025txwac_qm76,red3,qm,76,0,0,0,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Shallow Climb,Slow (> 8sec),No,0,1,5,No,Prateek K, 
+6672-2025txwac_qm10-blue2-Pranav R,6672,2025txwac,2025txwac_qm10,blue2,qm,10,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Pranav R,Disabled near reef for 1 min
+6672-2025txwac_qm19-red2-Arjun KS,6672,2025txwac,2025txwac_qm19,red2,qm,19,0,4,0,Yes,0,0,0,0,0,0,0,0,0,1,0,3,0,0,3,3,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Arjun KS, deep climb turned the cage up 90 degrees
+6672-2025txwac_qm25-blue2-Ian B,6672,2025txwac,2025txwac_qm25,blue2,qm,25,1,2,0,Yes,1,0,0,0,0,0,1,0,0,0,0,2,0,0,4,1,0,0,Park,No Attempt,No,0,0,0,No,Ian B, 
+6672-2025txwac_qm30-blue1-Jameson P,6672,2025txwac,2025txwac_qm30,blue1,qm,30,1,0,0,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,Yes,Jameson P, 
+6672-2025txwac_qm36-blue1-Jameson P,6672,2025txwac,2025txwac_qm36,blue1,qm,36,1,3,0,Yes,1,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Jameson P, 
+6672-2025txwac_qm42-red3-Pranav R,6672,2025txwac,2025txwac_qm42,red3,qm,42,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, Missed a few attempts at scoring on reef
+6672-2025txwac_qm53-red3-Arjun KS,6672,2025txwac,2025txwac_qm53,red3,qm,53,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,1,0,0,Park,No Attempt,No,0,0,0,No,Arjun KS, 
+6672-2025txwac_qm6-red1-Victoria H,6672,2025txwac,2025txwac_qm6,red1,qm,6,0,7,0,Yes,0,0,0,0,0,0,0,0,0,4,0,1,2,0,7,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+6672-2025txwac_qm61-red3-Arjun KS,6672,2025txwac,2025txwac_qm61,red3,qm,61,1,6,0,Yes,0,0,0,1,0,0,0,0,0,1,0,5,0,0,7,1,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Arjun KS, was about to climb but fell. something broke?
+6672-2025txwac_qm69-blue1-Srinand T,6672,2025txwac,2025txwac_qm69,blue1,qm,69,1,4,0,Yes,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,1,0,0,Park,No Attempt,No,0,0,0,No,Srinand T, 
+6672-2025txwac_qm75-red2-Abhi N,6672,2025txwac,2025txwac_qm75,red2,qm,75,0,7,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,7,0,9,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+7121-2025txwac_qm16-blue3-Brace Y,7121,2025txwac,2025txwac_qm16,blue3,qm,16,1,2,0,No,0,0,0,1,1,1,0,0,0,0,1,1,0,0,4,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Brace Y, 
+7121-2025txwac_qm22-red2-Lekha S,7121,2025txwac,2025txwac_qm22,red2,qm,22,1,1,0,Yes,0,0,0,1,0,0,0,0,0,0,0,1,0,0,4,2,3,2,No Attempt,No Attempt,No,0,0,0,No,Lekha S, very heavy elevator
+7121-2025txwac_qm32-red2-Arjun M,7121,2025txwac,2025txwac_qm32,red2,qm,32,1,2,0,Yes,0,0,0,1,0,1,0,0,0,2,0,0,0,0,3,2,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun M, A Coral got stuck in the robot
+7121-2025txwac_qm37-red3-Pranav R,7121,2025txwac,2025txwac_qm37,red3,qm,37,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R,"Disabled near coral station for a while and missed multiple attempts at L1
+"
+7121-2025txwac_qm45-red1-Ian B,7121,2025txwac,2025txwac_qm45,red1,qm,45,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Ian B, 
+7121-2025txwac_qm49-red3-Abhi N,7121,2025txwac,2025txwac_qm49,red3,qm,49,2,4,0,Yes,0,0,0,2,0,1,0,0,0,0,2,0,2,0,6,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+7121-2025txwac_qm5-red2-Lekha S,7121,2025txwac,2025txwac_qm5,red2,qm,5,0,3,0,Yes,0,0,0,0,0,0,0,0,0,0,1,0,2,0,4,0,0,0,No Attempt,No Attempt,No,0,0,1,No,Lekha S, Didn't do much during match (stood still for seconds) - missed a few coral scoring on L4
+7121-2025txwac_qm61-blue2-Abhi N,7121,2025txwac,2025txwac_qm61,blue2,qm,61,2,0,Sus,Yes,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N, Was heavily defended by 8507
+7121-2025txwac_qm66-blue1-Lekha S,7121,2025txwac,2025txwac_qm66,blue1,qm,66,1,5,0,Yes,0,0,0,1,0,1,0,0,0,0,1,4,0,0,5,4,3,2,No Attempt,No Attempt,No,0,0,0,No,Lekha S,"robot did very good in scoring algae and remving it from the reef
+they mostly scored L3 - it's very consistent
+their elevator mechanism was a bit slow though
+"
+7121-2025txwac_qm70-blue1-Srinand T,7121,2025txwac,2025txwac_qm70,blue1,qm,70,1,2,0,Yes,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Srinand T," Penalties
+"
+7121-2025txwac_qm82-blue1-Arjun M,7121,2025txwac,2025txwac_qm82,blue1,qm,82,1,5,0,Yes,0,0,0,1,0,0,0,0,0,0,5,0,0,0,7,3,2,0,No Attempt,No Attempt,No,3,0,0,No,Arjun M, Got coral stuck in itself
+7121-2025txwac_qm9-blue3-Arjun S,7121,2025txwac,2025txwac_qm9,blue3,qm,9,1,5,0,Yes,0,0,0,1,0,1,0,0,0,0,0,5,0,0,6,0,2,0,Park,No Attempt,No,1,0,0,No,Arjun S, Very slow in doing any task but we're really good at L3 but we're bad at L4 and never tried L1 or L2
+7125-2025txwac_qm11-blue3-Arjun S,7125,2025txwac,2025txwac_qm11,blue3,qm,11,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun S, 
+7125-2025txwac_qm21-red2-Arjun KS,7125,2025txwac,2025txwac_qm21,red2,qm,21,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,Medium (4-7sec),No,0,0,2,No,Arjun KS, switched over to defense after taking too long to align
+7125-2025txwac_qm26-red1-Srinand T,7125,2025txwac,2025txwac_qm26,red1,qm,26,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,No,Srinand T, Defense bot
+7125-2025txwac_qm31-blue1-Jameson P,7125,2025txwac,2025txwac_qm31,blue1,qm,31,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,2,Yes,Jameson P, 
+7125-2025txwac_qm36-red1-Abhi N,7125,2025txwac,2025txwac_qm36,red1,qm,36,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N, Just wandered around the field 
+7125-2025txwac_qm47-blue3-Lekha S,7125,2025txwac,2025txwac_qm47,blue3,qm,47,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Lekha S, robot was idle the entire teleop 
+7125-2025txwac_qm51-blue2-Abhi N,7125,2025txwac,2025txwac_qm51,blue2,qm,51,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N," Just moved around field for most of game, didn't score"
+7125-2025txwac_qm65-blue2-Abhi N,7125,2025txwac,2025txwac_qm65,blue2,qm,65,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,1,No,Abhi N, 
+7125-2025txwac_qm7-red2-Lekha S,7125,2025txwac,2025txwac_qm7,red2,qm,7,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Lekha S, didn't play the match ;(
+7125-2025txwac_qm70-red3-Ian B,7125,2025txwac,2025txwac_qm70,red3,qm,70,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Ian B, 
+7125-2025txwac_qm77-red1-Arjun KS,7125,2025txwac,2025txwac_qm77,red1,qm,77,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,1,No,Arjun KS," something happened to the arm, there was a trash can on it and also not very good defense"
+8088-2025txwac_qm14-blue3-Brace Y,8088,2025txwac,2025txwac_qm14,blue3,qm,14,0,10,0,Yes,0,0,0,0,0,0,0,0,0,0,2,0,8,1,10,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, 
+8088-2025txwac_qm25-blue1-Arjun S,8088,2025txwac,2025txwac_qm25,blue1,qm,25,0,6,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,6,0,8,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun S, Very slow and not accurate
+8088-2025txwac_qm3-red2-Arjun M,8088,2025txwac,2025txwac_qm3,red2,qm,3,0,7,0,No,0,0,0,0,0,0,0,0,0,2,1,0,4,0,9,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun M, 
+8088-2025txwac_qm31-red3-Arjun KS,8088,2025txwac,2025txwac_qm31,red3,qm,31,0,8,0,Yes,0,0,0,0,0,0,0,0,0,1,1,2,4,0,9,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun KS,very good coral
+8088-2025txwac_qm38-red2-Ian B,8088,2025txwac,2025txwac_qm38,red2,qm,38,0,7,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,1,0,0,Park,No Attempt,No,0,0,0,No,Ian B, 
+8088-2025txwac_qm44-blue1-Srinand T,8088,2025txwac,2025txwac_qm44,blue1,qm,44,0,5,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Srinand T, 
+8088-2025txwac_qm48-blue3-Brace Y,8088,2025txwac,2025txwac_qm48,blue3,qm,48,0,7,0,No,0,0,0,0,0,0,0,0,0,0,0,0,7,1,7,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, 
+8088-2025txwac_qm56-blue2-Abhi N,8088,2025txwac,2025txwac_qm56,blue2,qm,56,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N, Rammed into barge at endgame
+8088-2025txwac_qm63-blue1-Jameson P,8088,2025txwac,2025txwac_qm63,blue1,qm,63,0,10,0,Yes,0,0,0,0,0,0,0,0,0,0,0,2,8,0,10,0,0,0,Park,No Attempt,No,0,0,0,No,Jameson P, 
+8088-2025txwac_qm74-red3-Ian B,8088,2025txwac,2025txwac_qm74,red3,qm,74,0,6,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,6,0,7,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Ian B, 
+8088-2025txwac_qm78-red2-Abhi N,8088,2025txwac,2025txwac_qm78,red2,qm,78,0,4,0,No,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N, 
+8088-2025txwac_qm9-blue1-Vishnu S,8088,2025txwac,2025txwac_qm9,blue1,qm,9,0,8,0,Yes,0,0,0,0,0,0,0,0,0,0,1,3,4,0,10,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Vishnu S, 
+8408-2025txwac_qm12-blue1-Vishnu S,8408,2025txwac,2025txwac_qm12,blue1,qm,12,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,5,No,Vishnu S, 
+8408-2025txwac_qm20-blue1-Hitu C,8408,2025txwac,2025txwac_qm20,blue1,qm,20,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,5,No,Hitu C," Very defensive, blocking other team climb and station pickup, since then it can't do much else"
+8408-2025txwac_qm24-red2-Lekha S,8408,2025txwac,2025txwac_qm24,red2,qm,24,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,1,No,Lekha S,push bot - was pretty much in one place during teleop 
+8408-2025txwac_qm35-red1-Abhi N,8408,2025txwac,2025txwac_qm35,red1,qm,35,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+8408-2025txwac_qm40-blue3-Lekha S,8408,2025txwac,2025txwac_qm40,blue3,qm,40,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,3,No,Lekha S, push bot - mostly guarded the opponents' coral stations
+8408-2025txwac_qm44-red2-Vishnu S,8408,2025txwac,2025txwac_qm44,red2,qm,44,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Vishnu S, 
+8408-2025txwac_qm49-blue2-Shreya A,8408,2025txwac,2025txwac_qm49,blue2,qm,49,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Shreya A, 
+8408-2025txwac_qm56-red3-Arjun KS,8408,2025txwac,2025txwac_qm56,red3,qm,56,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,5,No,Arjun KS, battering ram
+8408-2025txwac_qm6-red3-Srinand T,8408,2025txwac,2025txwac_qm6,red3,qm,6,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Srinand T, Defense bot
+8408-2025txwac_qm67-blue2-Lekha S,8408,2025txwac,2025txwac_qm67,blue2,qm,67,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Lekha S," push bot - mostly defended processor area
+fairly tough defense but also just stood idle for a few seconds im match"
+8408-2025txwac_qm75-blue3-Brace Y,8408,2025txwac,2025txwac_qm75,blue3,qm,75,0,0,0,No,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, Pancake bot
+8408-2025txwac_qm81-red1-Arjun KS,8408,2025txwac,2025txwac_qm81,red1,qm,81,1,0,Sus,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Arjun KS, 
+8507-2025txwac_qm1-red1-Abhi N,8507,2025txwac,2025txwac_qm1,red1,qm,1,0,3,0,Yes,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N,Failed Climb
+8507-2025txwac_qm10-red3-Srinand T,8507,2025txwac,2025txwac_qm10,red3,qm,10,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Srinand T, 
+8507-2025txwac_qm18-red2-Arjun KS,8507,2025txwac,2025txwac_qm18,red2,qm,18,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,Shallow Climb,Medium (4-7sec),Yes,0,0,0,No,Arjun KS," flung a coral out of the field, dropped a bunch of coral, started climb with 30 seconds left"
+8507-2025txwac_qm22-red3-Victoria H,8507,2025txwac,2025txwac_qm22,red3,qm,22,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H,they just moved to the cages and stayed under a shallow cage
+8507-2025txwac_qm41-blue2-Victoria H,8507,2025txwac,2025txwac_qm41,blue2,qm,41,0,3,0,Yes,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,0,0,Shallow Climb,Medium (4-7sec),No,0,0,0,No,Victoria H, 
+8507-2025txwac_qm46-blue1-Srinand T,8507,2025txwac,2025txwac_qm46,blue1,qm,46,0,4,0,Yes,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,Shallow Climb,Medium (4-7sec),No,0,0,0,No,Srinand T, 
+8507-2025txwac_qm53-blue2-Abhi N,8507,2025txwac,2025txwac_qm53,blue2,qm,53,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Shallow Climb,Medium (4-7sec),No,0,0,0,Yes,Abhi N," I think their arm may have been damaged in auto, need to confirm though"
+8507-2025txwac_qm61-red1-Arjun M,8507,2025txwac,2025txwac_qm61,red1,qm,61,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Shallow Climb,Medium (4-7sec),No,0,0,3,No,Arjun M, Defense bot
+8507-2025txwac_qm68-blue3-Victoria H,8507,2025txwac,2025txwac_qm68,blue3,qm,68,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Shallow Climb,Medium (4-7sec),No,0,0,3,No,Victoria H, 
+8507-2025txwac_qm74-blue2-Lekha S,8507,2025txwac,2025txwac_qm74,blue2,qm,74,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Shallow Climb,Medium (4-7sec),No,0,0,2,No,Lekha S," intake aimed too high and when they tried scoring L1 coral, it fell out 
+tried pushing algae in the processor 
+had a good shallow climb mechanism "
+8507-2025txwac_qm81-blue1-Arjun M,8507,2025txwac,2025txwac_qm81,blue1,qm,81,1,5,0,Yes,1,0,0,0,0,0,0,0,0,5,0,0,0,1,5,1,0,0,Shallow Climb,Medium (4-7sec),No,0,0,0,No,Arjun M, 
+8515-2025txwac_qm14-red1-Abhi N,8515,2025txwac,2025txwac_qm14,red1,qm,14,0,2,0,Yes,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+8515-2025txwac_qm23-blue2-Ian B,8515,2025txwac,2025txwac_qm23,blue2,qm,23,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,Deep Climb,No Attempt,No,5,0,0,No,Ian B, 
+8515-2025txwac_qm29-red2-Lekha S,8515,2025txwac,2025txwac_qm29,red2,qm,29,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Park,No Attempt,No,0,0,0,No,Lekha S, mostly stayed idle during match - didn't do much
+8515-2025txwac_qm46-red1-Ian B,8515,2025txwac,2025txwac_qm46,red1,qm,46,0,1,0,Yes,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,0,0,Park,No Attempt,No,2,0,0,No,Ian B, 
+8515-2025txwac_qm51-blue3-Brace Y,8515,2025txwac,2025txwac_qm51,blue3,qm,51,0,4,0,No,0,0,0,0,0,1,0,0,0,2,0,0,2,0,4,0,0,0,Shallow Climb,Fast (< 3sec),No,0,0,1,No,Brace Y, 
+8515-2025txwac_qm61-red2-Prateek K,8515,2025txwac,2025txwac_qm61,red2,qm,61,0,5,0,Yes,0,0,0,0,0,0,0,0,0,3,2,0,0,0,3,1,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Prateek K, 
+8515-2025txwac_qm69-red1-Vishnu S,8515,2025txwac,2025txwac_qm69,red1,qm,69,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Deep Climb,No Attempt,No,0,0,0,No,Vishnu S, 
+8515-2025txwac_qm7-blue2-Pranav R,8515,2025txwac,2025txwac_qm7,blue2,qm,7,0,2,0,Yes,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+8515-2025txwac_qm73-red3-Ian B,8515,2025txwac,2025txwac_qm73,red3,qm,73,1,2,0,Yes,0,0,0,1,0,0,0,0,0,0,0,0,2,0,4,1,0,0,Deep Climb,No Attempt,No,2,0,0,No,Ian B, 
+8515-2025txwac_qm79-blue1-Arjun M,8515,2025txwac,2025txwac_qm79,blue1,qm,79,1,3,0,Yes,1,0,0,0,0,0,0,0,0,1,0,1,1,0,5,1,0,0,Deep Climb,Slow (> 8sec),No,0,0,0,No,Arjun M,
+8528-2025txwac_qm11-red2-Lekha S,8528,2025txwac,2025txwac_qm11,red2,qm,11,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Lekha S,didn't do anything during teleop except parking 
+8528-2025txwac_qm20-red1-Abhi N,8528,2025txwac,2025txwac_qm20,red1,qm,20,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Abhi N, Wandered around field for most of the match
+8528-2025txwac_qm27-blue3-Pranav R,8528,2025txwac,2025txwac_qm27,blue3,qm,27,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Pranav R, 
+8528-2025txwac_qm33-red3-Arjun KS,8528,2025txwac,2025txwac_qm33,red3,qm,33,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Arjun KS, sluggish
+8528-2025txwac_qm38-red3-Pranav R,8528,2025txwac,2025txwac_qm38,red3,qm,38,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Pranav R, Played defense for coral station on other team
+8528-2025txwac_qm42-blue2-Victoria H,8528,2025txwac,2025txwac_qm42,blue2,qm,42,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Victoria H, stayed at the opposing teams coral station
+8528-2025txwac_qm5-blue2-Pranav R,8528,2025txwac,2025txwac_qm5,blue2,qm,5,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Pranav R,Moved really slowly and stopped from time to time in teleop
+8528-2025txwac_qm51-blue1-Jameson P,8528,2025txwac,2025txwac_qm51,blue1,qm,51,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Jameson P, 
+8528-2025txwac_qm61-blue1-Jameson P,8528,2025txwac,2025txwac_qm61,blue1,qm,61,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,4,No,Jameson P, 
+8528-2025txwac_qm68-red3-Ian B,8528,2025txwac,2025txwac_qm68,red3,qm,68,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Ian B, 
+8528-2025txwac_qm72-blue2-Lekha S,8528,2025txwac,2025txwac_qm72,blue2,qm,72,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,Yes,Lekha S, they stood idle in front of the red alliance's coral station
+8528-2025txwac_qm80-red1-Arjun KS,8528,2025txwac,2025txwac_qm80,red1,qm,80,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Arjun KS, 
+8732-2025txwac_qm13-red1-Victoria H,8732,2025txwac,2025txwac_qm13,red1,qm,13,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, took time to light up with the reef then missed and got the coral stuck in the drivrbase
+8732-2025txwac_qm17-red2-Arjun KS,8732,2025txwac,2025txwac_qm17,red2,qm,17,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,Park,Medium (4-7sec),No,4,0,0,No,Arjun KS," randomly stopped a few times, orange light started swinging around, waited for a coral from opposing alliance's station???"
+8732-2025txwac_qm24-blue1-Arjun S,8732,2025txwac,2025txwac_qm24,blue1,qm,24,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Arjun S, Robot just kept on spinning
+8732-2025txwac_qm28-blue2-Ian B,8732,2025txwac,2025txwac_qm28,blue2,qm,28,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Ian B, Spun around in circles all game and couldn't pick up or score anything
+8732-2025txwac_qm36-red3-Arjun KS,8732,2025txwac,2025txwac_qm36,red3,qm,36,0,3,0,Yes,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun KS, 
+8732-2025txwac_qm43-red3-Pranav R,8732,2025txwac,2025txwac_qm43,red3,qm,43,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+8732-2025txwac_qm55-red2-Prateek K,8732,2025txwac,2025txwac_qm55,red2,qm,55,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Prateek K, Was lost
+8732-2025txwac_qm62-red2-Prateek K,8732,2025txwac,2025txwac_qm62,red2,qm,62,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,3,No,Prateek K, 
+8732-2025txwac_qm67-blue1-Srinand T,8732,2025txwac,2025txwac_qm67,blue1,qm,67,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Srinand T, Defense bot
+8732-2025txwac_qm7-blue3-Arjun S,8732,2025txwac,2025txwac_qm7,blue3,qm,7,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Arjun S,Did nothing at all
+8732-2025txwac_qm74-blue3-Victoria H,8732,2025txwac,2025txwac_qm74,blue3,qm,74,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Victoria H, 
+8732-2025txwac_qm80-blue1-Arjun M,8732,2025txwac,2025txwac_qm80,blue1,qm,80,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Arjun M, Played defense first half of match then started to play offense last half of match
+8749-2025txwac_qm16-blue2-Shreya A,8749,2025txwac,2025txwac_qm16,blue2,qm,16,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Shreya A," In auto, they tried to score a L3 but it failed and the coral fell into their own robot instead. "
+8749-2025txwac_qm23-red1-Srinand T,8749,2025txwac,2025txwac_qm23,red1,qm,23,1,5,0,Yes,0,0,0,1,0,0,0,0,0,0,0,1,4,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Srinand T, 
+8749-2025txwac_qm3-red3-Prateek K,8749,2025txwac,2025txwac_qm3,red3,qm,3,0,8,0,Yes,0,0,0,0,0,0,0,0,0,0,6,2,0,0,8,1,0,0,Park,Medium (4-7sec),No,0,0,0,No,Prateek K, Consistent level 2 not 3
+8749-2025txwac_qm34-blue1-Jameson P,8749,2025txwac,2025txwac_qm34,blue1,qm,34,0,9,0,Yes,0,0,0,0,0,0,0,0,0,0,0,2,7,0,9,0,0,0,Park,Slow (> 8sec),No,0,0,0,No,Jameson P, 
+8749-2025txwac_qm39-blue3-Lekha S,8749,2025txwac,2025txwac_qm39,blue3,qm,39,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Lekha S," human player slightly struggled giving coral to the robot when it was in the station
+robot seemed slightly unbalaned"
+8749-2025txwac_qm43-blue3-Lekha S,8749,2025txwac,2025txwac_qm43,blue3,qm,43,0,8,0,Yes,0,0,0,0,0,0,0,0,0,0,2,3,3,0,9,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Lekha S, 
+8749-2025txwac_qm52-red1-Arjun M,8749,2025txwac,2025txwac_qm52,red1,qm,52,0,7,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,6,0,7,1,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Arjun M, 
+8749-2025txwac_qm60-red2-Prateek K,8749,2025txwac,2025txwac_qm60,red2,qm,60,0,4,0,Yes,0,0,0,0,0,0,0,0,0,0,1,2,1,0,3,3,0,0,Deep Climb,Medium (4-7sec),No,0,0,0,No,Prateek K, 
+8749-2025txwac_qm68-red2-Pranav R,8749,2025txwac,2025txwac_qm68,red2,qm,68,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Pranav R, Enabled but didn't move during teleop until endgame
+8749-2025txwac_qm7-blue1-Vishnu S,8749,2025txwac,2025txwac_qm7,blue1,qm,7,0,9,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,9,0,10,0,0,0,Deep Climb,No Attempt,No,0,0,5,No,Vishnu S, 
+8749-2025txwac_qm75-blue2-Shreya A,8749,2025txwac,2025txwac_qm75,blue2,qm,75,0,8,0,No,0,0,0,0,0,0,0,0,0,2,0,0,6,0,8,0,0,0,Deep Climb,Fast (< 3sec),No,0,0,0,No,Shreya A," No attachments for algae, only works with coral (picking up from the station and putting it in the reef), looks like they have potential to score L3 and L2, but they mostly focused on L4. the L1s are from the L4 that were misaligned. Also, they got stuck on an algae for around 3 seconds."
+8749-2025txwac_qm79-red3-Prateek K,8749,2025txwac,2025txwac_qm79,red3,qm,79,0,5,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Prateek K, 
+8769-2025txwac_qm21-red1-Abhi N,8769,2025txwac,2025txwac_qm21,red1,qm,21,0,3,0,Yes,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,1,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+8769-2025txwac_qm29-blue2-Ian B,8769,2025txwac,2025txwac_qm29,blue2,qm,29,0,4,0,Yes,0,0,0,0,0,0,0,0,0,3,0,1,0,0,6,0,0,0,Park,No Attempt,No,3,0,0,No,Ian B, 
+8769-2025txwac_qm35-red2-Arjun M,8769,2025txwac,2025txwac_qm35,red2,qm,35,0,3,0,Yes,0,0,0,0,0,0,0,0,0,1,2,0,0,0,7,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun M, Inconsistent scoring 
+8769-2025txwac_qm4-blue1-Vishnu S,8769,2025txwac,2025txwac_qm4,blue1,qm,4,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Vishnu S, Robot just stopped twice
+8769-2025txwac_qm48-red3-Abhi N,8769,2025txwac,2025txwac_qm48,red3,qm,48,0,4,0,Yes,0,0,0,0,0,0,0,0,0,1,3,0,0,0,6,0,0,0,Park,No Attempt,No,3,0,0,No,Abhi N, 
+8769-2025txwac_qm52-blue3-Brace Y,8769,2025txwac,2025txwac_qm52,blue3,qm,52,0,2,0,No,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,Park,Medium (4-7sec),No,0,0,2,No,Brace Y, 
+8769-2025txwac_qm59-blue1-Jameson P,8769,2025txwac,2025txwac_qm59,blue1,qm,59,0,6,0,Yes,0,0,0,0,0,0,0,0,0,1,5,0,0,0,6,0,0,0,Park,No Attempt,No,0,0,0,No,Jameson P, 
+8769-2025txwac_qm68-blue2-Lekha S,8769,2025txwac,2025txwac_qm68,blue2,qm,68,0,7,0,Yes,0,0,0,0,0,0,0,0,0,1,6,0,0,0,10,0,0,0,Park,No Attempt,No,0,0,0,No,Lekha S," was very consistent with L2 
+couldn't do L1 - but when they missed a L2 it fell to L1 :)"
+8769-2025txwac_qm74-red1-Vishnu S,8769,2025txwac,2025txwac_qm74,red1,qm,74,0,4,0,Yes,0,0,0,0,0,0,0,0,0,4,0,0,0,0,3,0,0,0,No Attempt,No Attempt,No,0,0,1,No,Vishnu S, 
+8769-2025txwac_qm8-blue2-Pranav R,8769,2025txwac,2025txwac_qm8,blue2,qm,8,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R,"  Battery browned out, bit disconnected multiple times"
+8769-2025txwac_qm82-red3-Prateek K,8769,2025txwac,2025txwac_qm82,red3,qm,82,0,9,0,Yes,0,0,0,0,0,0,0,0,0,1,4,4,0,0,9,0,0,0,Park,No Attempt,No,2,0,0,No,Prateek K, 
+8858-2025txwac_qm1-blue3-Brace Y,8858,2025txwac,2025txwac_qm1,blue3,qm,1,0,0,0,No,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,1,1,0,No Attempt,No Attempt,No,2,0,1,No,Brace Y, This is good
+8858-2025txwac_qm15-blue3-Brace Y,8858,2025txwac,2025txwac_qm15,blue3,qm,15,0,0,0,Yes,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,Slow (> 8sec),No,0,0,5,No,Brace Y, 
+8858-2025txwac_qm23-red2-Lekha S,8858,2025txwac,2025txwac_qm23,red2,qm,23,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Deep Climb,Medium (4-7sec),No,0,0,2,No,Lekha S, one part of the bot was still on the ground after attempting to climb
+8858-2025txwac_qm29-red1-Srinand T,8858,2025txwac,2025txwac_qm29,red1,qm,29,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,No Attempt,No Attempt,No,3,0,0,No,Srinand T, Very consistent with algae
+8858-2025txwac_qm47-red2-Vishnu S,8858,2025txwac,2025txwac_qm47,red2,qm,47,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Vishnu S, 
+8858-2025txwac_qm51-red2-Prateek K,8858,2025txwac,2025txwac_qm51,red2,qm,51,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,5,5,Deep Climb,Slow (> 8sec),No,0,0,0,No,Prateek K, Very shaky
+8858-2025txwac_qm62-blue3-Brace Y,8858,2025txwac,2025txwac_qm62,blue3,qm,62,0,2,0,No,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y, 
+8858-2025txwac_qm71-blue3-Victoria H,8858,2025txwac,2025txwac_qm71,blue3,qm,71,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,2,0,No Attempt,No Attempt,No,1,1,0,No,Victoria H, 
+8858-2025txwac_qm82-red2-Abhi N,8858,2025txwac,2025txwac_qm82,red2,qm,82,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,4,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N, 
+8858-2025txwac_qm9-red1-Victoria H,8858,2025txwac,2025txwac_qm9,red1,qm,9,0,2,0,No,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,Park,No Attempt,No,0,0,0,No,Victoria H, 
+9054-2025txwac_qm1-red3-Prateek K,9054,2025txwac,2025txwac_qm1,red3,qm,1,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Prateek K,"Played defense, popped an algae. Was effective in defense but didnt even pick up a single coral or score."
+9054-2025txwac_qm13-blue3-Vaed D,9054,2025txwac,2025txwac_qm13,blue3,qm,13,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Vaed D, Didn't do much. Tried defense but there was nothing to defend.
+9054-2025txwac_qm20-blue2-Shreya A,9054,2025txwac,2025txwac_qm20,blue2,qm,20,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Shreya A, wasted a lot of time trying to pick up an algea from the floor (didnt end up picking it up)
+9054-2025txwac_qm32-red3-Arjun KS,9054,2025txwac,2025txwac_qm32,red3,qm,32,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Arjun KS, defense and awkward movement
+9054-2025txwac_qm41-red3-Pranav R,9054,2025txwac,2025txwac_qm41,red3,qm,41,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,Park,No Attempt,No,0,0,0,No,Pranav R, 
+9054-2025txwac_qm48-blue1-Jameson P,9054,2025txwac,2025txwac_qm48,blue1,qm,48,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Jameson P, 
+9054-2025txwac_qm55-blue2-Abhi N,9054,2025txwac,2025txwac_qm55,blue2,qm,55,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Abhi N, 
+9054-2025txwac_qm60-blue2-Abhi N,9054,2025txwac,2025txwac_qm60,blue2,qm,60,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Abhi N, 
+9054-2025txwac_qm65-blue1-Jameson P,9054,2025txwac,2025txwac_qm65,blue1,qm,65,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Jameson P, 
+9054-2025txwac_qm69-blue2-Lekha S,9054,2025txwac,2025txwac_qm69,blue2,qm,69,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Lekha S," mostly played defense by guarding the coral stations but got easily pushed away from the opposing robots
+for the last 30 sec of teleop - stood still (mechanical failure?)"
+9054-2025txwac_qm82-red1-Arjun KS,9054,2025txwac,2025txwac_qm82,red1,qm,82,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Arjun KS, disappeared halfway through the match? cameras didn't see anything
+9444-2025txwac_qm12-blue2-Pranav R,9444,2025txwac,2025txwac_qm12,blue2,qm,12,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+9444-2025txwac_qm2-blue1-Shay S,9444,2025txwac,2025txwac_qm2,blue1,qm,2,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,3,0,0,Yes,Shay S, Mech Fail: robot did not move
+9444-2025txwac_qm20-red3-Prateek K,9444,2025txwac,2025txwac_qm20,red3,qm,20,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,1,Yes,Prateek K, Seems to be stuck or unable to move
+9444-2025txwac_qm25-blue3-Pranav R,9444,2025txwac,2025txwac_qm25,blue3,qm,25,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+9444-2025txwac_qm29-blue3-Pranav R,9444,2025txwac,2025txwac_qm29,blue3,qm,29,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, Bot did not appear
+9444-2025txwac_qm35-blue2-Shreya A,9444,2025txwac,2025txwac_qm35,blue2,qm,35,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Park,No Attempt,No,0,0,4,Yes,Shreya A, robots arm became floppy and the robot wasnt moving smoothly
+9444-2025txwac_qm43-red1-Brace Y,9444,2025txwac,2025txwac_qm43,red1,qm,43,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Brace Y,
+9444-2025txwac_qm50-blue2-Shreya A,9444,2025txwac,2025txwac_qm50,blue2,qm,50,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Shreya A, Robot was still in middle of the field during the whole match
+9444-2025txwac_qm57-red2-Prateek K,9444,2025txwac,2025txwac_qm57,red2,qm,57,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,1,Yes,Prateek K,Stopped moving as teleop starts. Starts back in last 45. 
+9444-2025txwac_qm65-red3-Arjun KS,9444,2025txwac,2025txwac_qm65,red3,qm,65,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Arjun KS, only made it off the line on auton
+9444-2025txwac_qm70-red1-Vishnu S,9444,2025txwac,2025txwac_qm70,red1,qm,70,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Vishnu S, 
+9444-2025txwac_qm79-red1-Arjun KS,9444,2025txwac,2025txwac_qm79,red1,qm,79,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,Yes,Arjun KS, kept trying to keep arm up but it kept falling
+9577-2025txwac_qm1-blue2-Hitu C,9577,2025txwac,2025txwac_qm1,blue2,qm,1,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Hitu C,bot popped algae
+9577-2025txwac_qm11-blue2-Pranav R,9577,2025txwac,2025txwac_qm11,blue2,qm,11,0,1,0,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Pranav R, 
+9577-2025txwac_qm18-red3-Prateek K,9577,2025txwac,2025txwac_qm18,red3,qm,18,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,2,No,Prateek K, 
+9577-2025txwac_qm28-blue3-Pranav R,9577,2025txwac,2025txwac_qm28,blue3,qm,28,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,1,0,Park,No Attempt,No,0,0,0,No,Pranav R, Dropped many coral while trying to score
+9577-2025txwac_qm32-red1-Abhi N,9577,2025txwac,2025txwac_qm32,red1,qm,32,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,No Attempt,No Attempt,No,0,0,0,No,Abhi N," Ran over an algae midfield, immobile for half the game."
+9577-2025txwac_qm36-blue2-Shreya A,9577,2025txwac,2025txwac_qm36,blue2,qm,36,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,No Attempt,No Attempt,No,0,0,5,No,Shreya A, 
+9577-2025txwac_qm44-red1-Ian B,9577,2025txwac,2025txwac_qm44,red1,qm,44,0,2,0,Yes,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,Park,No Attempt,No,0,0,0,No,Ian B, 
+9577-2025txwac_qm52-red3-Arjun KS,9577,2025txwac,2025txwac_qm52,red3,qm,52,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,No Attempt,No Attempt,No,0,0,0,No,Arjun KS," stuffed a bunch of algae into processor, no human player to shoot algae?"
+9577-2025txwac_qm64-blue1-Jameson P,9577,2025txwac,2025txwac_qm64,blue1,qm,64,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,Park,No Attempt,No,0,0,2,No,Jameson P, 
+9577-2025txwac_qm71-red1-Vishnu S,9577,2025txwac,2025txwac_qm71,red1,qm,71,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,0,No,Vishnu S, 
+9577-2025txwac_qm76-red2-Abhi N,9577,2025txwac,2025txwac_qm76,red2,qm,76,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,Park,No Attempt,No,0,0,0,No,Abhi N, 
+9786-2025txwac_qm10-blue1-Vishnu S,9786,2025txwac,2025txwac_qm10,blue1,qm,10,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,4,No,Vishnu S, Defense by camping at the source
+9786-2025txwac_qm15-red2-Arjun KS,9786,2025txwac,2025txwac_qm15,red2,qm,15,0,4,0,Yes,0,0,0,0,0,0,0,0,0,4,0,0,0,0,7,0,0,0,Park,Fast (< 3sec),No,0,0,0,No,Arjun KS," somehow fumbled more than ten corals, only scoring in l1"
+9786-2025txwac_qm24-blue2-Ian B,9786,2025txwac,2025txwac_qm24,blue2,qm,24,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Attempt,No Attempt,No,0,0,3,No,Ian B, Overall didn't do much
+9786-2025txwac_qm29-red3-Victoria H,9786,2025txwac,2025txwac_qm29,red3,qm,29,0,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,2,No,Victoria H,mostly blocked opposing teams coral station
+9786-2025txwac_qm48-blue2-Shreya A,9786,2025txwac,2025txwac_qm48,blue2,qm,48,0,3,0,Yes,0,0,0,0,0,0,0,0,0,3,0,0,0,0,9,0,0,0,Park,No Attempt,No,0,0,0,No,Shreya A, 
+9786-2025txwac_qm5-red1-Victoria H,9786,2025txwac,2025txwac_qm5,red1,qm,5,0,2,0,Yes,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,1,0,0,No Attempt,No Attempt,No,0,0,0,No,Victoria H," 2 corals got stuck in the drive base while getting it from the station, eventually got one out but one was still stuck"
+9786-2025txwac_qm52-blue1-Jameson P,9786,2025txwac,2025txwac_qm52,blue1,qm,52,0,3,0,Yes,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,Park,No Attempt,No,0,0,0,No,Jameson P, 
+9786-2025txwac_qm58-red3-Arjun KS,9786,2025txwac,2025txwac_qm58,red3,qm,58,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,3,Park,No Attempt,No,2,0,0,No,Arjun KS, 
+9786-2025txwac_qm63-red2-Pranav R,9786,2025txwac,2025txwac_qm63,red2,qm,63,0,1,0,Yes,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,No Attempt,No Attempt,No,0,0,2,No,Pranav R, Got stuck on an algae and managed to get off and then got stuck on algae again 
+9786-2025txwac_qm72-blue3-Victoria H,9786,2025txwac,2025txwac_qm72,blue3,qm,72,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,Park,No Attempt,No,0,0,2,No,Victoria H,
+9786-2025txwac_qm77-blue3-Brace Y,9786,2025txwac,2025txwac_qm77,blue3,qm,77,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,No Attempt,No Attempt,No,2,0,0,No,Brace Y, I couldn't see the robot score
